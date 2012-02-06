@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When "Bell-shaped" is Far Far Away from Gaussian
+title: When Bell-shaped is Far Far Away from Gaussian
 categories:
 - R language
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Updating the Web Site "Animated Statistics Using R"
+title: Updating the Web Site Animated Statistics Using R
 categories:
 - R language
 tags:

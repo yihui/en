@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'R Doc: "Using R for Data Analysis and Graphics"'
+title: 'R Doc: Using R for Data Analysis and Graphics'
 categories:
 - R language
 tags:

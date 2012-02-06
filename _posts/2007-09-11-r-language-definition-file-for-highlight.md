@@ -1,6 +1,6 @@
 ---
 layout: post
-title: R Language Definition File for "Highlight"
+title: R Language Definition File for Highlight
 categories:
 - R language
 tags:

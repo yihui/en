@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Package "animation": Statistical Animations in R'
+title: 'Package animation: Statistical Animations in R'
 categories:
 - R language
 tags:

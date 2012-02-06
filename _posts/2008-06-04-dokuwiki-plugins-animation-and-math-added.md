@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dokuwiki Plugins "animation" and "math" Added
+title: Dokuwiki Plugins animation and math Added
 categories:
 - Computer Science
 tags:

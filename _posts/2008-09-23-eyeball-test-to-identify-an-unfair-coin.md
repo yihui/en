@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Eyeball Test" to Identify An Unfair Coin (or A False Record)'
+title: Eyeball Test to Identify An Unfair Coin (or A False Record)
 categories:
 - Featured
 - R language

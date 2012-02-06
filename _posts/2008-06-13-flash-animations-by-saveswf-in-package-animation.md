@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flash Animations by saveSWF() in Package "animation"
+title: Flash Animations by saveSWF() in Package animation
 categories:
 - Computer Science
 tags:

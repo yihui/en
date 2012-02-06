@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Did I Notice the Notice from Hadley Wickham (A Trivial "Data Mining" Case)
+title: How Did I Notice the Notice from Hadley Wickham (A Trivial Data Mining Case)
 categories:
 - Computer Science
 tags:
