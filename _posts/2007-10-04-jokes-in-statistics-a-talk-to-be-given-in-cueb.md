@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Jokes in Statistics" -- A Talk to be Given in CUEB (Slides & Materials)'
+title: Jokes in Statistics - A Talk to be Given in CUEB (Slides &amp; Materials)
 categories:
 - Statistics
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux Font Equivalents for Verdana, Courier New & Georgia
+title: Linux Font Equivalents for Verdana, Courier New &amp; Georgia
 categories:
 - Computer Science
 tags:

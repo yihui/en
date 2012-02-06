@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dirt in the Mouse & Glivenko-Cantelli Theorem
+title: Dirt in the Mouse &amp; Glivenko-Cantelli Theorem
 categories:
 - Statistics
 tags:
