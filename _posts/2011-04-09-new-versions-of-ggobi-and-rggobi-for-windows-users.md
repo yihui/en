@@ -15,3 +15,4 @@ For those who have been struggling with the installation of [GGobi](http://www.g
 You may use `install.packages('rggobi')` to install the new version of `rggobi` from CRAN.
 
 Also note that if you are a user of the [RGtk2 package](http://cran.r-project.org/package=RGtk2), you don't need a standalone installation of GTK+ either if you have already installed GGobi 2.1.9, because the path of GGobi will be written in the PATH variable of your system and `RGtk2` can load the required dll's from GGobi's directory.
+

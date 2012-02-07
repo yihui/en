@@ -6,7 +6,6 @@ categories:
 tags:
 - LaTeX
 - math expressions
-- R Language
 - tikzDevice
 ---
 
@@ -14,9 +13,8 @@ I remember a few weeks ago, there was a challenge in the R-help list to make the
 
 Here is an example per request of a reader of my blog:
 
-![authentic math formula in R](http://yihui.name/en/wp-content/uploads/2011/04/formula.png)
+![authentic math formula in R](http://i.imgur.com/3mWKw.png)
 
-    
     library(tikzDevice)
     options(tikzMetricPackages = c("\\usepackage[utf8]{inputenc}",
         "\\usepackage[T1]{fontenc}", "\\usetikzlibrary{calc}",
@@ -34,5 +32,6 @@ Here is an example per request of a reader of my blog:
         "$\\mathbb{ABCDEFG}$", "$\\mathcal{HIJKLMN}$"), cex = 2.5)
     dev.off()
     
-    tools::texi2dvi("formula.tex", pdf = TRUE)
+    tools::texi2pdf("formula.tex")
     system(paste(getOption("pdfviewer"), "formula.pdf"))
+
