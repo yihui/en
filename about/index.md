@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+comments: yes
 ---
 
 You can know more about me in the [homepage](/) and my [vitae](../vitae/). This blog site, as its name indicates, is about statistics, R, graphics and fun. It is particularly focused on R. I often update my old posts (even after years) to correct errors and remove outdated information, so please do not take everything for granted.
