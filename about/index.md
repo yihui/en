@@ -13,5 +13,5 @@ I like contributing to open source software like:
 - [R](http://www.r-project.org/): I'm the author of a few R packages (see [vitae](../vitae/))
 - [LyX](http://www.lyx.org/): I maintain the Sweave and knitr modules in LyX with Jean-Marc Lasgouttes
 
-You can find me on [GitHub](https://github.com/yihui/) or Twitter [@xieyihui](http://twitter.com/xieyihui) or [Google+](https://plus.google.com/u/0/109653178371807724268/posts).
+You can find me on [GitHub](https://github.com/yihui/) or Twitter [@xieyihui](http://twitter.com/xieyihui) or [Google+](https://plus.google.com/u/0/109653178371807724268/posts). Subscribe to the RSS feed of [blog posts](../feed/) or [all comments](http://yihui.disqus.com/latest.rss) to stay tuned.
 
