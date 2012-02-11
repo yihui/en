@@ -14,22 +14,27 @@ tags:
 
 A couple of days ago we released a package named [fun](http://cran.r-project.org/package=fun) to CRAN, but I did not dare to send an announcement to r-packages@r-project.org as usual. This package is a collection of some classical computer games (e.g. the Mine sweeper and Five in a row) as well as other funny stuff. Some examples:
 
-    ## install.packages('fun')
-    library(fun)
-    if (.Platform$OS.type == "windows") 
-             x11() else x11(type = "Xlib")
-    mine_sweeper()
+{% highlight r %}
+## install.packages('fun')
+library(fun)
+if (.Platform$OS.type == "windows") x11() else x11(type = "Xlib")
+mine_sweeper()
+{% endhighlight %}
 
 ![Mine Sweeper in R](http://i.imgur.com/U4oAT.png)
 
-    library(fun)
-    gomoku()
+{% highlight r %}
+library(fun)
+gomoku()
+{% endhighlight %}
 
 ![Five in a row in R](http://i.imgur.com/8jcQl.png)
 
 You can take a look at the list of functions in this package by reading the HTML help page (go to `help.start()`), and I also need to mention the demos, e.g. see `demo('TurtleGraphics')` for a demo of Turtle graphics (how many people know the old Logo programming language?), and `demo(package = 'fun')` for a list of all demos in this package.
 
-    demo('RealTurtle', package = 'fun')
+{% highlight r %}
+demo('RealTurtle', package = 'fun')
+{% endhighlight %}
 
 ![A turtle drawn in R](http://i.imgur.com/oWdOu.png)
 
@@ -41,6 +46,8 @@ Feel free to share with us if you have more fun. The developers' page is at: <ht
 
 P. S. This package may remind some people about the [sudoku](http://cran.r-project.org/package=sudoku) package (e.g. [Joshua Wiley has noticed it](https://plus.google.com/109653178371807724268/posts/eGKq27aqK5b)), and some people may even remember this:
 
-    library(fortunes)
-    fortune('sudoku')
+{% highlight r %}
+library(fortunes)
+fortune('sudoku')
+{% endhighlight %}
 
