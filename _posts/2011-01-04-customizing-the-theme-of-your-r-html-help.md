@@ -11,7 +11,9 @@ tags:
 
 R's default theme of the HTML help pages is too plain for me to read, but we can easily modify the theme, which is essentially a CSS file. You can find the file under:
 
-    file.path(R.home('doc'), 'html', 'R.css')
+{% highlight r %}
+file.path(R.home('doc'), 'html', 'R.css')
+{% endhighlight %}
 
 Simply replace this file with my version of [R.css](https://github.com/yihui/configuration/raw/master/R.css) (1K) which looks like:
 
