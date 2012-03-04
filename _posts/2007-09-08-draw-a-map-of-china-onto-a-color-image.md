@@ -8,26 +8,24 @@ tags:
 - Map
 ---
 
-What we need to do is just use the parameter `add = TRUE` in the function of `map()` (package `maps`):
+What we need to do is just use the parameter `add = TRUE` in the function of `map()` (package **maps**):
 
-[notice type=download][Downdload the file here](http://yihui.name/en/wp-content/uploads/1189569242_0.gz)[/notice]
-
-[![A Map of China on A Color Image](http://yihui.name/en/wp-content/uploads/1189243212_0.png)](http://yihui.name/en/wp-content/uploads/1189222030_1.png)
+![A Map of China on A Color Image](http://i.imgur.com/jx0ou.png)
 
 Source code:
 
-    
-    if (require(maps) & require(mapdata)) {
-        par(mar = c(0, 0, 0, 0))
-        map("china")
-        bd = par()$usr  #get the border
-        x = seq(bd[1], bd[2], length = 100)
-        y = seq(bd[3], bd[4], length = 100)
-        z = sqrt(outer((x - mean(x))^2, (y - mean(y))^2, "+"))
-        image(x, y, z, col = cm.colors(25), axes = F, xlab = "",
-            ylab = "")
-        map("china", add = TRUE) #add the map to the color image
-    }
+{% highlight r %}
+if (require(maps) && require(mapdata)) {
+  par(mar = c(0, 0, 0, 0))
+  map("china")
+  bd = par()$usr  #get the border
+  x = seq(bd[1], bd[2], length = 100)
+  y = seq(bd[3], bd[4], length = 100)
+  z = sqrt(outer((x - mean(x))^2, (y - mean(y))^2, "+"))
+  image(x, y, z, col = cm.colors(25), axes = F, xlab = "", ylab = "")
+  map("china", add = TRUE) # add the map to the color image
+}
+{% endhighlight %}
 
+Packages **maps** and **mapdata** are required for the map of China.
 
-Packages `maps` and `mapdata` are required for the map of China.
