@@ -12,4 +12,5 @@ On the Christmas Eve, there was a man dressed as "Santa Claus" in the street, wi
 
 Guess what?
 
-This "Santa" opened his bag and asked the passers-by, "Ladies and gentlemen, would you please give me some money?" ![](http://yihui.name/en/wp-content/uploads/bo/emot/sweat.gif)
+This "Santa" opened his bag and asked the passers-by, "Ladies and gentlemen, would you please give me some money?" -_-//
+

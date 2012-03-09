@@ -8,9 +8,7 @@ tags:
 - Mark Twain
 ---
 
-Money is always important![](http://yihui.name/en/wp-content/uploads/bo/emot/grin.gif)   
+Money is always important! :-D
 
+> The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money. ( Mark Twain)
 
-> "The holy passion of Friendship is of so sweet and steady and loyal and enduring a nature that it will last through a whole lifetime, if not asked to lend money."
-> 
-> -- Mark Twain

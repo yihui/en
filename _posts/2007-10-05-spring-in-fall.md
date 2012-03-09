@@ -10,9 +10,17 @@ tags:
 
 Yesterday when I was wandering about in the campus, I found a somewhat amazing scene: there were many flowers blossoming alongside the alleys, which just reminded me of a feeling of the spring in this fall. Thus I took some photos for these beauties using my mobile phone:
 
+![spring in fall 1](http://i.imgur.com/d1DXZ.jpg)
 
-[![](http://yihui.name/cn/wp-content/uploads/1191568034_0.jpg)](http://yihui.name/cn/wp-content/uploads/1191568034_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1191568424_0.jpg)](http://yihui.name/cn/wp-content/uploads/1191568424_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1191568608_0.jpg)](http://yihui.name/cn/wp-content/uploads/1191568608_1.jpg)
-[![](http://yihui.name/cn/wp-content/uploads/1191568788_0.jpg)](http://yihui.name/cn/wp-content/uploads/1191568788_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1191568904_0.jpg)](http://yihui.name/cn/wp-content/uploads/1191568904_1.jpg) [![](http://yihui.name/cn/wp-content/uploads/1191568976_0.jpg)](http://yihui.name/cn/wp-content/uploads/1191568976_1.jpg)
+![spring in fall 2](http://i.imgur.com/AePr1.jpg)
 
+![spring in fall 3](http://i.imgur.com/T2hkU.jpg)
+
+![spring in fall 4](http://i.imgur.com/fx3Wa.jpg)
+
+![spring in fall 5](http://i.imgur.com/GQxnY.jpg)
+
+![spring in fall 6](http://i.imgur.com/qqnTu.jpg)
 
 Hmmm... Interesting season :-)
+
