@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Vitae
+title: Curriculumn Vitae
 ---
+
+# Yihui Xie
 
 ## Contact Information
 
@@ -22,7 +24,7 @@ Statistical computing and graphics / data visualization
 
 - Honorable Mention Prize, Applications of R in Business [Competition](http://bit.ly/wP1Dii), 2012
 - [Vince Sposito](http://www.stat.iastate.edu/grad/finances/scholarships.html) Statistical Computing Award, 2011 (Department of Statistics, Iowa State University)
-- John M. Chambers Statistical Software [Award](http://stat-computing.org/awards/jmc/winners.html), 2009 (for the R package [animation](http://cran.r-project.org/package=animation))
+- John M. Chambers Statistical Software [Award](http://stat-computing.org/awards/jmc/winners.html), ASA, 2009 (for the R package [animation](http://cran.r-project.org/package=animation))
 - Excellent graduate scholarship, Renmin University of China, 2007
 - Successful Participant, Mathematical Contest in Modeling (America), 2006 ([paper](https://github.com/downloads/yihui/yihui.github.com/MCM-2006-paper-Yihui-Xie.pdf); [certificate](http://i.imgur.com/c3soC.jpg "Certificate of Mathematical Contest in Modelling (America)"))
 - Excellent graduate of Renmin University of China, 2006
@@ -55,18 +57,18 @@ Besides, I published several articles in the [Capital of Statistics](http://cos.
 
 Sept 2003 - Now
 
-I've made and been maintaining web pages for:
+I have made and been maintaining web pages for:
 
 - [The School of Statistics](http://stat.ruc.edu.cn/), Renmin University of China (Sept 2003 - Jun 2009)
 - [The Center for Applied Statistics](http://www.applstats.org/), Renmin University of China (Apr 2004 - Jun 2009)
 - The Center for Risk Management and Actuarial Studies (Jun 2004 - Apr 2006); Data Mining Center of Renmin University of China (Jul 2004 - Apr 2006), etc
 - The "Great Expectation Society", a student society in Renmin University (Mar 2005 - Jul 2006)
 
-I've built and been hosting this web forum:
+I have built and been hosting this web forum:
 
 - "[Capital of Statistics](http://cos.name/)" for web discussion of statistics (both [Chinese](http://cos.name/) and [English](http://cos.name/en/)) (May 2006 - now)
 
-I've been working in these web studios:
+I have been working in these web studios:
 
 - The English web studio of Renmin University of China (for the construction of English website of the university) (Sept 2006 - Jun 2009)
 - The web club of the School of Statistics (as the founder & leader) (Apr 2006 - 2008)
@@ -170,23 +172,24 @@ Projects Participated:
 
 ## Computer Skills
 
-I like playing with computer tools for building web pages and statistical computation & graphics.
+I like playing with computer tools for building web pages and statistical computation & graphics. I improve the efficiency of my work with the aid of programming (i.e. work hard to be lazy).
 
-- Statistical Packages: [R](http://www.r-project.org/), OpenBUGS (<del>S-Plus, SPSS, Eviews, SAS, MatLab, STATA, AMOS and LISREL</del>)
-- Languages: [R](http://www.r-project.org/), <del>Visual Basic (also VBA &amp; VBScript)</del>, HTML, <del>ASP (years ago)</del>, PHP, SQL, JavaScript<del>, a little knowledge about Python, C and Java</del>
-- Applications: LATEX, databases (MS Access, MySQL), SVN and GIT
-- Operating Systems: 90% GNU Linux ([Ubuntu](http://www.ubuntu.com/)); 10% Windows
+- Statistical Packages: [R](http://www.r-project.org/), OpenBUGS
+- Languages: R, HTML, JavaScript, PHP, SQL
+- Applications: LaTeX, [LyX](http://www.lyx.org), databases (e.g. MySQL), SVN and GIT
+- Operating Systems: 97.5% GNU Linux ([Ubuntu](http://www.ubuntu.com/)); 2.5% Windows
 
-I've never participated in any exams such as Nationwide Computer Level Test, but I have always been repairing PCs for those who have passed these exams and solving problems in their programming. Besides, I like to improve the efficiency of my work with the aid of programming.
+Listed above are what I'm very familiar with, and occasionally I also use other tools like [jStat](http://www.jstat.org/) and [D3](http://mbostock.github.com/d3/). I'm insterested in learning Python.
 
 ## Software Packages
 
-I have finished / am still writing these packages:
+I love open source software and below is a list of my contributions to the open source community:
 
-- Wordpress plugin ["UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/)" (June 2009, finished)
-- [Dokuwiki](http://wiki.splitbrain.org/wiki:dokuwiki) plugin "[`animation`](http://wiki.splitbrain.org/plugin:animation)" to insert animations into wiki pages; written in PHP and JavaScript (Jun 2008, finished)
-- R package "[`animation`](http://cran.r-project.org/web/packages/animation/index.html)" which has provided several animation demonstrations for statistical theories and data analysis; published in [CRAN](http://cran.r-project.org/) and being updated (Nov 2007 - now)
+- Wordpress plugin [UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/) (June 2009)
+- Dokuwiki plugin [animation](http://www.dokuwiki.org/plugin:animation) to insert animations into wiki pages; written in PHP and JavaScript (Jun 2008)
+- R package [animation](http://cran.r-project.org/package=animation) which provides several animation demonstrations for statistical theories and data analysis (Nov 2007 - now)
 - R package [knitr](http://cran.r-project.org/package=knitr) as an alternative to Sweave
 - R packages [formatR](http://cran.r-project.org/package=formatR), [Rd2roxygen](http://cran.r-project.org/package=Rd2roxygen), [R2SWF](http://cran.r-project.org/package=R2SWF), [MSG](http://cran.r-project.org/package=MSG), [iBUGS](http://cran.r-project.org/package=iBUGS), [fun](http://cran.r-project.org/package=fun), ...
 - R package [cranvas](https://github.com/ggobi/cranvas/) as the next generation of [GGobi](http://www.ggobi.org)
+- the Sweave and knitr modules in LyX
 
