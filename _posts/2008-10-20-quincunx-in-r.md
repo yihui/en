@@ -11,11 +11,7 @@ tags:
 - R Language
 ---
 
-Yesterday I wrote some R code to simulate the quincunx, which looks like:
+Yesterday I wrote some R code to simulate the quincunx, and I wrote an R function `quincunx()` in the [animation](http://cran.r-project.org/package=animation) package. Here is a [video](http://vimeo.com/2013914):
 
+<iframe src="http://player.vimeo.com/video/2013914?title=0&amp;byline=0&amp;portrait=0" width="400" height="333" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
-
-[Quincunx (Galton box, bean machine) to demonstrate the normal distribution](http://vimeo.com/2013914?pg=embed&sec=2013914) from [Yihui Xie](http://vimeo.com/yihui?pg=embed&sec=2013914) on Vimeo.
-
-
-It will appear as a function in the R package animation soon.
