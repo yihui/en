@@ -35,7 +35,7 @@ What happens behind the scene is that RStudio calls **knitr** to compile the Rmd
 pandoc -s -S -i -t dzslides --mathjax knitr-slides.md -o knitr-slides.html
 {% endhighlight %}
 
-Then you get an HTML file [knitr-slides.html](https://github.com/downloads/yihui/knitr/knitr-slides.html) which you can view in a modern web browser. Enjoy.
+Then you get an HTML file [knitr-slides.html](http://yihui.name/slides/knitr-slides.html) which you can view in a modern web browser. Enjoy.
 
 ## Final words
 
