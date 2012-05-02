@@ -5,7 +5,7 @@ categories: [R language, Featured]
 tags: [knitr, markdown, RStudio, pandoc, DZSlides, HTML5]
 ---
 
-One week ago I [made an early announcement](/en/2012/04/fancy-html5-slides-with-knitr-and-pandoc/) about the markdown support in the **knitr** package and RStudio, and now the version 0.5 of **knitr** [is on CRAN](http://cran.r-project.org/package=knitr), so I'm back to show you how I made the HTML5 slides. For those who are not familiar with markdown, you may read the [traditional documentation](http://daringfireball.net/projects/markdown/), but RStudio has a quicker reference (see below). The problem with markdown is that the original invention seems to be too simple, so quite a few variants was derived later (e.g. to support tables); that is another story, and you do not need to worry much about it.
+One week ago I [made an early announcement](/en/2012/04/fancy-html5-slides-with-knitr-and-pandoc/) about the markdown support in the **knitr** package and RStudio, and now the version 0.5 of **knitr** [is on CRAN](http://cran.r-project.org/package=knitr), so I'm back to show you how I made the HTML5 slides. For those who are not familiar with markdown, you may read the [traditional documentation](http://daringfireball.net/projects/markdown/), but RStudio has a quicker reference (see below). The problem with markdown is that the original invention seems to be too simple, so quite a few variants were derived later (e.g. to support tables); that is another story, and you do not need to worry much about it.
 
 Before you get started, make sure your **knitr** version is at least 0.5:
 
