@@ -8,11 +8,10 @@ tags:
 - Confidence Interval
 - Coverage Rate
 - Demo
-- pdf()
 - R Language
 ---
 
-> NOTE: There's a typo in the graph! The `$latex \mu$` should be replaced with the sample mean `$latex \bar{x}$`! And the code is available in the R package **animation**; see `library(animation); ?conf.int`
+> NOTE: There's a typo in the graph! The `$\mu$` should be replaced with the sample mean `$\bar{x}$`! And the code is available in the R package **animation**; see `library(animation); ?conf.int`
 
 Recently I've been thinking about attending the conference of [IASC2008](http://www.iasc-ars.org/IASC2008/index.html), and my vague idea is to use _animations_ in statistical education, especially in the demonstration of some algorithms containing _iterations_ or _loops_. Perhaps the main difficulty just lies in an integrated theory -- currently I'm still not clear about the literature in this area (if anyone knows, please do drop me a line).
 
