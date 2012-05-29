@@ -16,7 +16,7 @@ tags:
 - RODBC
 ---
 
-As Sir Francis Bacon said, "Histories make men wise; poets witty; the mathematics subtile^1; natural philosophy deep; moral grave; logic and rhetoric able to contend." And Windows stupid.
+As Sir Francis Bacon said, "Histories make men wise; poets witty; the mathematics subtile^1 ; natural philosophy deep; moral grave; logic and rhetoric able to contend." And Windows stupid.
 
 He should have added the last sentence if he were a Windows user in this age.
 
