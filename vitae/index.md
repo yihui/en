@@ -16,7 +16,7 @@ Statistical computing and graphics / data visualization
 
 ## Education Background
 	
-- 2009 ~ Now, PhD student in the Department of Statistics, Iowa State University
+- 2009 ~ Present, PhD student in the Department of Statistics, Iowa State University
 - 2006 ~ 2009, Master of statistics, School of Statistics, Renmin University of China
 - 2002 ~ 2006, Bachelor of Economics, School of Statistics, Renmin University of China
 
@@ -55,7 +55,7 @@ Besides, I published several articles in the [Capital of Statistics](http://cos.
 
 ### Web Construction and Management
 
-Sept 2003 - Now
+Sept 2003 - Present
 
 I have made and been maintaining web pages for:
 
@@ -66,7 +66,7 @@ I have made and been maintaining web pages for:
 
 I have built and been hosting this web forum:
 
-- "[Capital of Statistics](http://cos.name/)" for web discussion of statistics (both [Chinese](http://cos.name/) and [English](http://cos.name/en/)) (May 2006 - now)
+- "[Capital of Statistics](http://cos.name/)" for web discussion of statistics (both [Chinese](http://cos.name/) and [English](http://cos.name/en/)) (May 2006 - Present)
 
 I have been working in these web studios:
 
@@ -80,7 +80,7 @@ My own projects:
 
 ### Conferences Organization
 
-Feb 2005 - Now
+Feb 2005 - Present
 
 I organized
 
@@ -98,7 +98,7 @@ and I helped organize these conferences:
 
 ### Statistical Consulting
 
-May 2005 - Now
+May 2005 - Present
 
 I offer statistical consulting by email and I have been answering questions in the [Capital of Statistics](http://cos.name/cn/) almost every day. I'm happy to see these topics:
 
@@ -187,7 +187,7 @@ I love open source software and below is a list of my contributions to the open 
 
 - Wordpress plugin [UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/) (June 2009)
 - Dokuwiki plugin [animation](http://www.dokuwiki.org/plugin:animation) to insert animations into wiki pages; written in PHP and JavaScript (Jun 2008)
-- R package [animation](http://cran.r-project.org/package=animation) which provides several animation demonstrations for statistical theories and data analysis (Nov 2007 - now)
+- R package [animation](http://cran.r-project.org/package=animation) which provides several animation demonstrations for statistical theories and data analysis (Nov 2007 - Present)
 - R package [knitr](http://cran.r-project.org/package=knitr) as an alternative to Sweave
 - R packages [formatR](http://cran.r-project.org/package=formatR), [Rd2roxygen](http://cran.r-project.org/package=Rd2roxygen), [R2SWF](http://cran.r-project.org/package=R2SWF), [MSG](http://cran.r-project.org/package=MSG), [iBUGS](http://cran.r-project.org/package=iBUGS), [fun](http://cran.r-project.org/package=fun), ...
 - R package [cranvas](https://github.com/ggobi/cranvas/) as the next generation of [GGobi](http://www.ggobi.org)
