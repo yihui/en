@@ -133,6 +133,12 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- Yihui Xie and JJ Allaire, 2012, _New Tools for Reproducible Research with R_
+    - 05/30 Iowa State University
+    - 05/30 Minneapolis UseR Group
+    - 06/05 New York UseR Group
+    - 06/14 the 8th International useR! Conference (invited talk)
+- Yihui Xie, 2012, _cranvas: Building from Plumbing and Painting_, [Interface 2012](http://www.interfacesymposia.org/Interface2012/Interface2012.html), Houston TX ([slides](https://github.com/downloads/yihui/yihui.github.com/cranvas-Houston-2012.pdf))
 - Yihui Xie, 2012, _Generating beautiful statistical reports quickly and faithfully_, ISU Graphics Working Group ([slides](https://github.com/downloads/yihui/yihui.github.com/knitr-ISU-2012-Yihui-Xie.pdf))
 - Yihui Xie, 2011, _How I See Bootstrap, Tests and KDE_, Stat546 presentation at ISU ([slides](http://yihui.name/slides/2011-nonparametric.html))
 - Yihui Xie, 2011, _An Introduction to R_, tutorial workshops in the Econ department of ISU ([slides](http://yihui.name/slides/2011-r-intro-econ.html))
