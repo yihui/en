@@ -133,11 +133,13 @@ Projects Participated:
 
 ## Presentations & Lectures
 
-- Yihui Xie and JJ Allaire, 2012, _New Tools for Reproducible Research with R_
+- Yihui Xie, 2012, _cranvas: Interactive statistical graphics in R based on Qt_, [useR! 2012](http://biostat.mc.vanderbilt.edu/wiki/Main/UseR-2012), Nashville, TN ([R code](http://yihui.name/slides/2012-useR-cranvas-demo.R))
+- Yihui Xie and JJ Allaire, 2012, _New Tools for Reproducible Research with R_ ([slides](http://yihui.name/slides/2012-knitr-RStudio.html))
     - 05/30 Iowa State University
     - 05/30 Minneapolis UseR Group
     - 06/05 New York UseR Group
-    - 06/14 the 8th International useR! Conference (invited talk)
+    - 06/14 invited talk at the 8th International useR! Conference
+- Yihui Xie, 2012, _Go social coding! Make open source more open!_, lightning talk at useR! 2012 ([slides](https://github.com/downloads/yihui/yihui.github.com/social-coding-Yihui-Xie-2012.pdf))
 - Yihui Xie, 2012, _cranvas: Building from Plumbing and Painting_, [Interface 2012](http://www.interfacesymposia.org/Interface2012/Interface2012.html), Houston TX ([slides](https://github.com/downloads/yihui/yihui.github.com/cranvas-Houston-2012.pdf))
 - Yihui Xie, 2012, _Generating beautiful statistical reports quickly and faithfully_, ISU Graphics Working Group ([slides](https://github.com/downloads/yihui/yihui.github.com/knitr-ISU-2012-Yihui-Xie.pdf))
 - Yihui Xie, 2011, _How I See Bootstrap, Tests and KDE_, Stat546 presentation at ISU ([slides](http://yihui.name/slides/2011-nonparametric.html))
