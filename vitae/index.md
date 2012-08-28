@@ -22,6 +22,7 @@ Statistical computing and graphics / data visualization
 
 ## Honors & Awards
 
+- [Snedecor Award](http://www.stat.iastate.edu/grad/finances/scholarships.html), 2012 (the most outstanding PhD candidate in the Department of Statistics, Iowa State University)
 - Honorable Mention Prize, Applications of R in Business [Competition](http://bit.ly/wP1Dii), 2012
 - [Vince Sposito](http://www.stat.iastate.edu/grad/finances/scholarships.html) Statistical Computing Award, 2011 (Department of Statistics, Iowa State University)
 - John M. Chambers Statistical Software [Award](http://stat-computing.org/awards/jmc/winners.html), ASA, 2009 (for the R package [animation](http://cran.r-project.org/package=animation))
