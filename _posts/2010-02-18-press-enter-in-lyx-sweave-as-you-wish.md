@@ -13,6 +13,10 @@ tags:
 - Sweave
 ---
 
+> Note: this post is seriously out-of-date, and you should ignore it completely. See the [Sweave manual](https://github.com/downloads/yihui/lyx/sweave.pdf) for instructions with latest versions of LyX.
+
+> You have been warned above.
+
 For a long time I've been wondering why we are not able to use Enter in the LyX Scrap environment which was set up by Gregor Gorjanc for Sweave. Two weeks ago, I (finally!) could not help asking Gregor about this issue, as I'm using ``LyX + Sweave'' more and more in my daily work. He explained it here: [LyX-Sweave: mandatory use of control+enter in code chunks](http://ggorjan.blogspot.com/2009/07/lyx-sweave-mandatory-use-of.html)
 
 After digging into the LyX customization manual for a while, I found a solution which allows us to press the Enter key just as we normally do when typing in a LyX document. The key is to use `Environment` instead of `paragraph` as `LatexType` for the style definition of `Scrap`. Besides, I used the `LatexName` as `wrapsweave`, as a `LatexName` is required by LyX. The definition for `wrapsweave` is simple: just two empty lines by `\par`. (If you define it as `\newenvironment{wrapsweave}{}{}`, you will run into troubles sometimes; especially when you use indent for paragraphs.)
@@ -74,4 +78,4 @@ Enjoy pressing a single Enter key in LyX now! :)
 
 P.S. the side effect of this modification is, your R code will be separated by empty lines. But Sweave will remove blank lines by default, so that is not really a big trouble.
 
-P.P.S. Next time I will write my solution of using `pgfSweave` in LyX -- if you have never tried the `pgfSweave` package in R, I'd strongly recommend you do it right now!! My comment on this package is: amazingly beautiful! See a preview [lyx-pgfsweave-demo](http://yihui.name/en/wp-content/uploads/2010/02/lyx-pgfsweave-demo.pdf).
+P.P.S. Next time I will write my solution of using `pgfSweave` in LyX -- if you have never tried the `pgfSweave` package in R, I'd strongly recommend you do it right now!! My comment on this package is: amazingly beautiful!
