@@ -135,6 +135,7 @@ Projects Participated:
 ## Presentations & Lectures
 
 - Yihui Xie, 2012, _Dynamic Report Generation and Interactive Graphics on the Web_, End of Summer talk at AT&T Labs as a summer intern, Florham Park, NJ
+- Yihui Xie, 2012, _cranvas: A New Package for Interactive Statistical Graphics in R_, Joint Statistical Meetings at San Diego, CA
 - Yihui Xie, 2012, _cranvas: Interactive statistical graphics in R based on Qt_, [useR! 2012](http://biostat.mc.vanderbilt.edu/wiki/Main/UseR-2012), Nashville, TN ([R code](http://yihui.name/slides/2012-useR-cranvas-demo.R))
 - Yihui Xie and JJ Allaire, 2012, _New Tools for Reproducible Research with R_ ([slides](http://yihui.name/slides/2012-knitr-RStudio.html))
     - 05/30 Iowa State University
