@@ -16,9 +16,7 @@ tags:
 - Transparent Colors
 ---
 
-The other day I sent a small assignment to a group of people in order that they could _play_ with statistics and become more interested with this subject. The data provided to them can be [downdloaded here](https://github.com/downloads/yihui/yihui.github.com/circle-data-yihui-xie.tar.bz2) (compressed).
-
-The data-generating process was quite simple: first I generated 20000 random numbers (10000 rows, 2 columns) from `N(0, 1)` and then add 10000 rows of numbers which lie exactly on a circle; at last I provided this data in a randomized order so people cannot easily discover the pattern just from the numbers.
+The other day I sent a small assignment to a group of people in order that they could _play_ with statistics and become more interested with this subject. The data-generating process was quite simple: first I generated 20000 random numbers (10000 rows, 2 columns) from `N(0, 1)` and then add 10000 rows of numbers which lie exactly on a circle; at last I provided this data in a randomized order so people cannot easily discover the pattern just from the numbers.
 
 The question is, how to reveal the particular pattern in this "pile of sand"? Let's look at the original plot:
 
@@ -59,9 +57,14 @@ The R package `KernSmooth` has provided functions to estimate the 1D or 2D densi
 The R code for the above plots & animation is as follows:
 
 {% highlight r %}
-# read the data
-x = read.csv("data.csv")
-par(ask = TRUE)
+# generate the data
+x = rbind(matrix(rnorm(10000 * 2), ncol = 2), local({
+  r = runif(10000, 0, 2 * pi)
+  0.5 * cbind(sin(r), cos(r))
+}))
+x = as.data.frame(x[sample(nrow(x)), ])
+
+devAskNewPage(TRUE)
 # original plot
 plot(x)
 # transparent colors (alpha = 0.1)
@@ -72,18 +75,20 @@ plot(x, xlim = c(-1, 1), ylim = c(-1, 1))
 plot(x, pch = ".")
 # subset
 plot(x[sample(nrow(x), 1000), ])
+
 # 2D density estimation
 library(KernSmooth)
-fit = bkde2D(as.matrix(x), dpik(as.matrix(x)))
+fit = bkde2D(as.matrix(x), c(0.1, 0.1))
 # perspective plot by persp()
 persp(fit$x1, fit$x2, fit$fhat)
+
 library(rgl)
 # perspective plot by OpenGL
 rgl.surface(fit$x1, fit$x2, 5 * fit$fhat)
 # animation
 M = par3d("userMatrix")
-movie3d(par3dinterp(userMatrix = list(M, 
+play3d(par3dinterp(userMatrix = list(M,
   rotate3d(M, pi/2, 1, 0, 0), rotate3d(M, pi/2, 0, 1, 0), 
-  rotate3d(M, pi, 0, 0, 1))), duration = 20, fps = 10)
+  rotate3d(M, pi, 0, 0, 1))), duration = 20)
 {% endhighlight %}
 
