@@ -134,6 +134,7 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- Yihui Xie, 2012, _Can You Reproduce Your Homework?_, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD ([slides](http://yihui.name/slides/2012-reproduce-homework.html))
 - Yihui Xie, 2012, _I web, therefore I am_, ISU Computing Working Group ([slides](http://yihui.name/slides/2012-stats-web.html))
 - Yihui Xie, 2012, _Dynamic Report Generation and Interactive Graphics on the Web_, End of Summer talk at AT&T Labs as a summer intern, Florham Park, NJ
 - Yihui Xie, 2012, _cranvas: A New Package for Interactive Statistical Graphics in R_, Joint Statistical Meetings at San Diego, CA
