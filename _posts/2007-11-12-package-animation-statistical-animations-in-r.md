@@ -6,10 +6,9 @@ categories:
 tags:
 - Animation
 - CRAN
-- R Language
 - R Package
 ---
 
-Yesterday I have submitted a package called "animation" to CRAN. You may get it from CRAN ([http://cran.r-project.org/package=animation](http://cran.r-project.org/package=animation)).
+Yesterday I have submitted a package called "animation" to CRAN. You may get it from CRAN (<http://cran.r-project.org/package=animation>).
 
 This package aims at illustrating various statistical methods and data analyses in a form of _animation_.

@@ -20,11 +20,16 @@ Therefore we should find some font equivalents between Windows and Linux in orde
 
 These are three sample pages under Ubuntu:
 
+![](http://i.imgur.com/R8DZv.png)
 
-[![](http://yihui.name/en/wp-content/uploads/1191816656_0.png)](http://yihui.name/en/wp-content/uploads/1191816656_1.png) [![](http://yihui.name/en/wp-content/uploads/1191816682_0.png)](http://yihui.name/en/wp-content/uploads/1191816682_1.png) [![](http://yihui.name/en/wp-content/uploads/1191816702_0.png)](http://yihui.name/en/wp-content/uploads/1191816702_1.png)
+![](http://i.imgur.com/zDrgl.png)
 
+![](http://i.imgur.com/CbWWa.png)
 
 And these are under Windows XP:
 
+![](http://i.imgur.com/tsRG7.png)
 
-[![](http://yihui.name/en/wp-content/uploads/1191836794_0.png)](http://yihui.name/en/wp-content/uploads/1191836794_1.png) [![](http://yihui.name/en/wp-content/uploads/1191836831_0.png)](http://yihui.name/en/wp-content/uploads/1191836831_1.png) [![](http://yihui.name/en/wp-content/uploads/1191836874_0.png)](http://yihui.name/en/wp-content/uploads/1191836874_1.png)
+![](http://i.imgur.com/nz5S2.png)
+
+![](http://i.imgur.com/JVksf.png)

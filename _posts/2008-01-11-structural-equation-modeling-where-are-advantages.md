@@ -1,23 +1,17 @@
 ---
 layout: post
 title: 'Structural Equation Modeling: Where Are Advantages?'
-categories:
-- Statistics
-tags:
-- Covariance
-- Hypothesis Test
-- Model
-- SEM
-- Structural Equation Modeling
+categories: [Statistics]
+tags: [Covariance, Hypothesis Test, Model, SEM, Structural Equation Modeling]
 ---
 
-Personally I don't believe structural equation models (SEM) at all. I have been fighting against this modeling technique for quite a long time, but it seems that SEM is becoming more and more popular _outside_ the discipline of statistics. It's indeed strange. Yesterday I received an email asking me about the SEM, and I could not help being angry at this model to some extent. As a result, I listed some reasons for my objection to such a kind of modeling in my reply as follows:
+Personally I don't believe structural equation models (SEM) at all. I have been fighting against this modeling technique for quite a long time, but it seems that SEM is becoming more and more popular _outside_ the discipline of statistics. It's indeed strange. Yesterday I received an email asking me about the SEM, and I listed some reasons for my objection to such a kind of modeling in my reply as follows:
 
 > Hi,
 >
 > The most obvious disadvantage, I believe, just lies in the critical modeling technique it adopted at the beginning: constructing models to fit the sample COVARIANCE instead of the sample values themselves. I insist that such an idea has almost destroyed our valuable data. You know, the covariance is just one of the TOO MANY characteristics of the data, therefore if we only focus on this simple information (covariance), other information will be dropped (e.g. mean, kurtosis, skewness, ...). And a very natural question is, what does the covariance stand for? Can it represent all of the original information? The answer is certainly NO!
 >
-> The second disadvantage in my eyes is the complexity of this model. In statistics, rarely have I ever met models more complex than SEMs. Even the simplest SEMs will include tens of parameters, as there are several parameter matrices in a SEM. The direct consequence it brings is the computational complexity. You can easily calculate the minimum of f(x)=x^2+1, but do you know how to calculate the minimum of f(a,b,c,d,e,f,g,...)=a*b^4/(2*c+d^14*a)-f/g*c^d+...? Actually the target function for SEM to optimize is much more complex than this one! It involves with the multiplication, inverse and determinant of huge matrices... Just tell me, can you trust the software to correctly find the GLOBAL optimum for such a complex function? Personally I cannot, as I know there are too many "stories" behind this problem. It's very likely that your software only tells you a LOCAL optimum WITHOUT warnings.
+> The second disadvantage in my eyes is the complexity of this model. In statistics, rarely have I ever met models more complex than SEMs. Even the simplest SEMs will include tens of parameters, as there are several parameter matrices in a SEM. The direct consequence it brings is the computational complexity. You can easily calculate the minimum of f(x)=x^2+1, but do you know how to calculate the minimum of `f(a, b, c, d, e, f, g, ...) = a * b^4 / (2 * c + d^14 * a) - f / g * c^d + ...`? Actually the target function for SEM to optimize is much more complex than this one! It involves with the multiplication, inverse and determinant of huge matrices... Just tell me, can you trust the software to correctly find the GLOBAL optimum for such a complex function? Personally I cannot, as I know there are too many "stories" behind this problem. It's very likely that your software only tells you a LOCAL optimum WITHOUT warnings.
 >
 > The third reason comes from a philosophy: you may regard SEM simply as a process of hypothesis testing. I think you surely know the null hypothesis. In the end, you can ONLY REJECT your model but you can NEVER accept it (or say, ah, my model is correct!). In other words, you can never find the truth, although there are many measures (Chi-square, GFI, ...) to tell you how "good" you models are. The basic philosophy of hypothesis testing in statistics is that null hypothesis can only be rejected (because in most cases you can only know the risk of rejecting; you cannot know the risk of accepting it). If we are unable to accept a SEM, why bother to construct it? (If you declare this SEM is correct, other people can naturally doubt whether there are other alternative models.)
 >
