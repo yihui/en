@@ -24,7 +24,7 @@ names(x) = nms
 ## then remove any characters which are not numbers (i.e. 0-9)
 x = sapply(x, function(xx) as.numeric(gsub('[^0-9]', '', xx)))
 {% endhighlight %}
-    
+
 The most important function is `readHTMLTable()`, which is a convenient wrapper to parse an HTML page and retrieve the table elements. The rest of work is simply to figure out which table we need. Then we have to remove some characters which are not numbers. This is done by a regular expression `[^0-9]` in which `^` means matching any characters other than the following ones (in this case, they are digits from 0 to 9). It is easy to extend this script to reading other web pages too -- just change the URL (e.g. using a loop).
 
 To assist understanding the code above, I put some intermediate results below:

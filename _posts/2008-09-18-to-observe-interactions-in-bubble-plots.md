@@ -31,7 +31,7 @@ y = c(outer(sq, sq, function(x, z) 10 + 1 * x + 0.5 *
 symbols(x, z, y, bg = "red", fg = "yellow",
    main = "y = 10 + x + 0.5 * z + 0.5 * x * z + error")
 y = c(outer(sq, sq, function(x, z) 1 * x + 0.5 * z + runif(1)))
-symbols(x, z, y, bg = "red", fg = "yellow", 
+symbols(x, z, y, bg = "red", fg = "yellow",
   main = "y = 10 + x + 0.5 * z + error")
 {% endhighlight %}
 

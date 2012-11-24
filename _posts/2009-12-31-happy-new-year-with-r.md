@@ -99,7 +99,7 @@ saveSWF({
     }
     text(8, -2.5, "Yixuan @ 2009-12-31 (http://yixuan.cos.name)",
          adj = c(1, 0), col = "white", cex = 0.8)
-    
+
   }
 }, interval = 0.05, dev = "pdf",
         para = list(bg = "black", mar = rep(0, 4)), width = 7, height = 4)

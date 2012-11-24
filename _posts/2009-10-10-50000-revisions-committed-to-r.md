@@ -16,7 +16,7 @@ Today [Romain Francois](http://romainfrancois.blog.free.fr/) posted an interesti
 
     > library(fortunes)
     > fortune("Ripleyed")
-    
+
     And the fear of getting Ripleyed on the mailing list also makes me think, read,
     and improve before submitting half baked questions to the list.
      -- Eric Kort

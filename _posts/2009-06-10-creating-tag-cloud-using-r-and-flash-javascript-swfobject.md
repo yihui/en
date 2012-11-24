@@ -84,7 +84,7 @@ Additional columns `color` and `hicolor` will be used if they exist (hexadecimal
 
 # 3. Example
 
-Here is an example on visualizing my blog tags. 
+Here is an example on visualizing my blog tags.
 
 {% highlight r %}
 library(fun)

@@ -27,7 +27,7 @@ text(1,1,"Animation",srt=i,col=rainbow(360)[i],cex=7*i/360)
 # pause for a while
 Sys.sleep(0.01)}
 {% endhighlight %}
-    
+
 Apparently it is pain reading unformatted R code, but on the other hand, it is natural for us to be lazy. I don't care about adding spaces or indent to my raw R code -- I'll concentrate on programming first and format my code later. The R package `[formatR](http://cran.r-project.org/package=formatR)` is intended to help us format our messy R code.
 
 {% highlight r %}
@@ -42,7 +42,7 @@ tidy.gui()
 install.packages('gWidgetsRGtk2')
 tidy.gui('RGtk2')
 {% endhighlight %}
-    
+
 Then you can either paste your code into the text box or click the "Open" button to open an existing R code file. Click the "Convert" button and you are done!
 
 ![formatR: unformatted R code](http://i.imgur.com/Y55lL.png)

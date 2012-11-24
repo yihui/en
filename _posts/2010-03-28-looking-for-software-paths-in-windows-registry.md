@@ -69,7 +69,7 @@ if (nzchar(magick.path) && require(animation)) {
         shell.exec(file.path(getwd(), "magickEx.gif"))
 }
 {% endhighlight %}
-    
+
 You should be able to see the output as this:
 
 ![ImageMagick Example](http://i.imgur.com/O8BJB.gif)
@@ -109,7 +109,7 @@ You might now be able to run the above examples in your Windows version, and I'l
 {% highlight r %}
 > sessionInfo()
 R version 2.10.1 (2009-12-14)
-i386-pc-mingw32 
+i386-pc-mingw32
 
 locale:
 [1] LC_COLLATE=Chinese_People's Republic of China.936  LC_CTYPE=Chinese_People's Republic of China.936

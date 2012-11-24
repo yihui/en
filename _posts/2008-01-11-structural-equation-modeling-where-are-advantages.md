@@ -21,6 +21,6 @@ Personally I don't believe structural equation models (SEM) at all. I have been 
 >
 > You may judge from my above words that I have been fighting against this model for quite a long time. Once a statistician said, "All models are wrong, but some models are useful", and I'd like to say that SEM is surely not among these "some models". I'd be very glad to hear from you about the "successful" applications of SEM if you have any cases in this aspect. I've inquired such cases of many people who wrote me emails asking about the SEM but I have not got any till today, which ensured me even more of my impression that SEM is a useless technique.
 >
-> Regards,  
+> Regards,
 > Yihui
 

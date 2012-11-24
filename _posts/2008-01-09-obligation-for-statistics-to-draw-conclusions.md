@@ -11,7 +11,7 @@ tags:
 
 Of course it is NOT the obligation for statistics (or statisticians) to draw conclusions.
 
-Statistics helps us to understand facts (_approximately_, in most cases), and the result might be "insignificant" or "unstable", etc. I believe most people hate such results, as they cannot draw conclusions as usual. 
+Statistics helps us to understand facts (_approximately_, in most cases), and the result might be "insignificant" or "unstable", etc. I believe most people hate such results, as they cannot draw conclusions as usual.
 
 A stranger sent me an email asking about an unstable result from his/her K-Means cluster analysis, and this guy wanted to know a "good" method to choose the initial centers so that the cluster membership would be stable, besides, he/she also wondered which result was "correct", as there were many results according to different initial centers.
 

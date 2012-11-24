@@ -17,7 +17,7 @@ Recently I've been thinking about attending the conference of [IASC2008](http://
 
 The other day when I was browsing the R documentation pages, I noticed that the amount of materials in those pages is increasing at a high speed. Among them I also saw some excellent web sites built by students (e.g. from Taiwan), which has triggered my own idea on building an independent website introducing animated pictures in statistics.
 
-So... Let's come back to the topic. In fact this is a demonstration I made several weeks ago, and today I modified it a little bit in order that the coverage rate can be better shown. The idea behind this simulation is simple: draw samples (random numbers) from the population which follows `N(0, 1)`, and calculate confidence intervals (CI) based on these samples respectively. I believe everybody surely knows the formula in the main title of the figure below (suppose `sigma` is _known_, then compute the CI for the _unknown_ `mu`). 
+So... Let's come back to the topic. In fact this is a demonstration I made several weeks ago, and today I modified it a little bit in order that the coverage rate can be better shown. The idea behind this simulation is simple: draw samples (random numbers) from the population which follows `N(0, 1)`, and calculate confidence intervals (CI) based on these samples respectively. I believe everybody surely knows the formula in the main title of the figure below (suppose `sigma` is _known_, then compute the CI for the _unknown_ `mu`).
 
 ![Demonstration of Confidence Intervals Using R (Animated)](http://i.imgur.com/V37Mp.png)
 

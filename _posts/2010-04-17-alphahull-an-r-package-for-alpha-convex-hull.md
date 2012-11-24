@@ -29,12 +29,12 @@ x = cbind(0.5 + r * cos(theta), 0.5 + r * sin(theta))
   library(alphahull)
   par(mar = rep(0, 4), xaxt = "n", yaxt = "n", bg = "black", col = "white")
   for (alpha in seq(0.25, 0, -0.01)) {
-    plot(ahull(x, alpha = alpha), pch = 20, col = "white", 
+    plot(ahull(x, alpha = alpha), pch = 20, col = "white",
       panel.last = text(0.5, 0.5, sprintf("alpha = %.2f", alpha), cex = 2))
   }
 ## }, moviename = "alpha-convex-hull")
 {% endhighlight %}
-    
+
 Again, you may interactively play with the convex hull using the **gWidgets** package:
 
 {% highlight r %}

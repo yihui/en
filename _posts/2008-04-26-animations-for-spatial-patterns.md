@@ -24,7 +24,7 @@ I just used the function `saveMovie()` in the **animation** package:
 library(animation)
 library(maps)
 saveGIF({
-  for (i in 1:20) 
+  for (i in 1:20)
     map("state", col = sample(terrain.colors(30)), fill = TRUE)
 }, ani.height = 300, ani.width = 500, outdir = getwd())
 {% endhighlight %}

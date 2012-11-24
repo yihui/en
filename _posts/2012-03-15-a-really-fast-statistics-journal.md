@@ -73,11 +73,11 @@ The journal can find plenty of good and _active_ reviewers automatically after a
 
 I'm quite interested in reproducible research, and I'm all for reproducible results in papers. Well, if you are a statistician, R and Sweave have probably come into your mind. Sweave is great, and the idea of literate programming is awesome. It is just a shame that great ideas were implemented with a narrow vision. I can understand Sweave was tied to LaTeX, but that is a narrow choice. I feel painful to introduce Sweave to other people because I have to teach them LaTeX first.
 
-I do not need to repeat [my motivations](https://github.com/yihui/knitr#readme) to write another R package [knitr](/knitr/) to replace Sweave. The relevant point is reproducible research should be easier for the general public, and LaTeX is no way to go. Again, markdown is better. You will never be trapped in all sorts of weird TeX errors. Open a notepad (can be literally Windows Notepad or other text editors), write the text you want, then the code; compile this text file, you get your paper/report. This should be the case if we want to popularize reproducible research. If you have spent many hours on writing a TeX document and carefully embedding R code in it, then compile it... 
+I do not need to repeat [my motivations](https://github.com/yihui/knitr#readme) to write another R package [knitr](/knitr/) to replace Sweave. The relevant point is reproducible research should be easier for the general public, and LaTeX is no way to go. Again, markdown is better. You will never be trapped in all sorts of weird TeX errors. Open a notepad (can be literally Windows Notepad or other text editors), write the text you want, then the code; compile this text file, you get your paper/report. This should be the case if we want to popularize reproducible research. If you have spent many hours on writing a TeX document and carefully embedding R code in it, then compile it...
 
-- Boom! TeX errors! 
-- Boom! Figures too wide/narrow! 
-- Boom! Figures floating away! 
+- Boom! TeX errors!
+- Boom! Figures too wide/narrow!
+- Boom! Figures floating away!
 - Boom! Editors ask you to use EPS instead of PDF figures!
 - Boom! R errors!
 - ...

@@ -25,16 +25,16 @@ As we know, LaTeX environment cannot be centered in LyX (only paragraphs can), s
 
 To put all efforts together, this is the new `literate-scrap.inc` (compare it with [http://cran.r-project.org/contrib/extra/lyx/literate-scrap.inc](http://cran.r-project.org/contrib/extra/lyx/literate-scrap.inc)):
 
-    
+
     Format 2
-    
+
     Preamble
     \usepackage{Sweave}
     \newenvironment{wrapsweave}{\par}{\par}
     EndPreamble
-    
+
     OutputType              literate
-    
+
     Style Scrap
       LatexType             Environment
       LatexName             wrapsweave
@@ -53,7 +53,7 @@ To put all efforts together, this is the new `literate-scrap.inc` (compare it wi
         Family              typewriter
       EndFont
     End
-    
+
     Style ScrapCenter
       LatexType             Environment
       LatexName             center
@@ -71,7 +71,7 @@ To put all efforts together, this is the new `literate-scrap.inc` (compare it wi
         Family              typewriter
       EndFont
     End
-    
+
 
 
 Enjoy pressing a single Enter key in LyX now! :)

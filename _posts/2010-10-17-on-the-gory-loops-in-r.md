@@ -8,7 +8,7 @@ tags: [Loop, paste(), S Language, substring(), Table, Vectorization]
 This blog post is mainly for [Stat 579](http://www.public.iastate.edu/~hofmann/stat579/) students on [the homework for week 7](http://www.public.iastate.edu/~hofmann/stat579/homework/week7-functions.html), since I received too many "gory" loops in the homework submissions and I think it would help a bit to write my thoughts on R loops for beginners. The immortal motto for newbies in programming is:
 
 > If you want to make an apple pie from scratch, **you must first create the universe**.
-> 
+>
 > Carl Sagan
 
 There have been endless wars on which programming language is better than others, but my view point is, that is nothing but the _balance_ between the code performance and the amount of work for programmers. In an extreme sense, almost all languages give you the ability to create the universe, but you do not really have to if you just want to make an apple pie.
