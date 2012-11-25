@@ -126,6 +126,7 @@ Duties in Associations & Centers:
 
 Projects Participated:
 
+- Google Summer of Code [2012](http://www.google-melange.com/gsoc/project/google/gsoc2012/cloud_wei/16001): Dynamic report generation in the web with R (mentor)
 - Translation of [R for beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) by Emmanuel Paradis (Co-operated with some colleagues to finish the translation) (Nov 2005 - Feb 2006);
 - Performance Evaluation of Taxation Management of _the China Customs_ (designed several R programs for sampling databases using R) (Sept 2006 - Jun 2009);
 - Important Projects in Social Science of _the Ministry of Education_: Research on the Industry Competitiveness of China (Apr 2007 - May 2007);
