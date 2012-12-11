@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IPython vs knitr, or Python vs R
-categories: [Computer Science, R Language]
+categories: [Computer Science, R language]
 tags: [IPython, knitr, shiny, RStudio, Websocket, Emacs Lisp]
 ---
 
