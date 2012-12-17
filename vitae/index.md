@@ -135,6 +135,7 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- Yihui Xie, 2012, _knitr: Starting From Reproducible Homework_, Workshop on Reproducibility in Computational and Experimental Mathematics, [ICERM](http://icerm.brown.edu/tw12-5-rcem), Brown University, Providence, RI ([slides](https://bitbucket.org/stat/www/downloads/ICERMRR-Yihui-Xie-2012.pdf))
 - Yihui Xie, 2012, _Can You Reproduce Your Homework?_, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD ([slides](http://yihui.name/slides/2012-reproduce-homework.html))
 - Yihui Xie, 2012, _I web, therefore I am_, ISU Computing Working Group ([slides](http://yihui.name/slides/2012-stats-web.html))
 - Yihui Xie, 2012, _Dynamic Report Generation and Interactive Graphics on the Web_, End of Summer talk at AT&T Labs as a summer intern, Florham Park, NJ
