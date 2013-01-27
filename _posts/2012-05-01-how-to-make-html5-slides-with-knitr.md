@@ -21,7 +21,7 @@ You need to install the [RStudio preview version](http://www.rstudio.org/downloa
 
 ![R markdown interface in RStudio](http://i.imgur.com/9YlzL.png)
 
-The button `MD` in the toolbar shows a quick reference of the markdown syntax, which I believe you can learn in 3 minutes. To start with, you can use my example on Github: [knitr-slides.Rmd](https://github.com/yihui/knitr/blob/master/inst/examples/knitr-slides.Rmd), or quickly cook up your own by `Ctrl + Shift + >` to insert code chunks.
+The button `MD` in the toolbar shows a quick reference of the markdown syntax, which I believe you can learn in 3 minutes. To start with, you can use my example on Github: [knitr-slides.Rmd](https://github.com/yihui/knitr/blob/master/inst/examples/knitr-slides.Rmd), or quickly cook up your own by `Ctrl + Shift + I` to insert code chunks.
 
 You can write headers with `#` and bullet points with `-`. It is both quick to write and easy to remember (and readable too). When you are done, just hit the button `Knit HTML`, and you get a nice HTML page showing you R code and the output. You do not have to learn LaTeX in order to step into the realm of reproducible research. (Did you see the Binomial pmf there?!)
 
