@@ -7,14 +7,14 @@
   >
   <channel>
     <title>{{ site.author }}</title>
-    <link href="{{ site.url }}/feed/" rel="self" />
-    <link href="http://yihui.name/" />
+    <atom:link href="{{ site.url }}/feed/" rel="self" type="application/rss+xml" />
+    <link>http://yihui.name</link>
     <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
     <webMaster>xie@yihui.name</webMaster>
     {% for post in site.posts limit:10 %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
-      <link href="{{ site.url }}{{ post.url }}"/>
+      <link>{{ site.url }}{{ post.url }}</link>
       <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
       <author>{{ site.author }}</author>
       <guid>{{ site.url }}{{ post.id }}</guid>
