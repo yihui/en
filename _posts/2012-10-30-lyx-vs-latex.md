@@ -37,4 +37,6 @@ I know this promotion for LyX is, as usual, not going to help. People simply wal
 
 ![](http://forgifs.com/gallery/d/171709-3/Cat-ignores-girl-like-a-boss.gif)
 
-Image [via](http://researchinprogress.tumblr.com/post/34403093418/how-i-feel-at-poster-presentations). Also see [this](http://researchinprogress.tumblr.com/post/34692517685/changing-just-a-tiny-little-bit-in-my-latex-tabular).
+Image [via](http://researchinprogress.tumblr.com/post/34403093418/how-i-feel-at-poster-presentations). Also see [Changing just a tiny little bit in my LaTeX tabular](http://researchinprogress.tumblr.com/post/34692517685/changing-just-a-tiny-little-bit-in-my-latex-tabular).
+
+![](http://i.imgur.com/uarWJuS.gif)
