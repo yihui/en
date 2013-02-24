@@ -5,6 +5,8 @@ categories: [R language]
 tags: [vignette, knitr, markdown, HTML]
 ---
 
+> Note: since R 3.0.0, you can build Markdown vignettes naturally; see http://yihui.name/knitr/demo/vignette/ for details.
+
 What is the best resource to learn an R package? Many R users know the almighty question mark `?` in R. For example, type `?lm` and you will see the documentation of the function `lm`. If you know nothing about a package, you can take a look at the HTML help by
 
 {% highlight r %}
