@@ -151,6 +151,7 @@ Projects Participated:
 - Yihui Xie, 2012, _Generating beautiful statistical reports quickly and faithfully_, ISU Graphics Working Group ([slides](https://github.com/downloads/yihui/yihui.github.com/knitr-ISU-2012-Yihui-Xie.pdf))
 - Yihui Xie, 2011, _How I See Bootstrap, Tests and KDE_, Stat546 presentation at ISU ([slides](http://yihui.name/slides/2011-nonparametric.html))
 - Yihui Xie, 2011, _An Introduction to R_, tutorial workshops in the Econ department of ISU ([slides](http://yihui.name/slides/2011-r-intro-econ.html))
+- Yihui Xie, 2011, _Lessons Learned in Developing R Packages_, ISU Computational Statistics working group ([slides](http://yihui.name/slides/2011-r-dev-lessons.html))
 - Yihui Xie, 2011, _`cranvas`: Interactive Statistical Graphics in R via Qt_, AT&T Research Labs, New Jersey ([slides](https://github.com/downloads/yihui/yihui.github.com/cranvas-ATT-2011-Yihui-Xie.pdf))
 - Yihui Xie, 2011, _Interactive Parallel Coordinates Plot Based on Qt_, Joint Statistical Meetings at Miami Beach, Florida ([slides](https://github.com/downloads/yihui/yihui.github.com/cranvas-JSM-2011-Yihui-Xie.pdf))
 - Yihui Xie, 2011, _New Features and Enhancements of the `animation` Package_, ISU Graphics Working Group ([slides](https://github.com/downloads/yihui/yihui.github.com/animation-2011-Yihui-Xie.pdf))
