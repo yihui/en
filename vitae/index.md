@@ -135,6 +135,7 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- Yihui Xie, 2013, _knitr: A General-purpose Tool for Dynamic Report Generation in R_, [ENAR](http://enar.org) 2013, Orlando, FL ([slides](http://dl.dropbox.com/u/15335397/slides/knitr-ENAR-Yihui-Xie-2013.html))
 - Yihui Xie, 2013, _Reproducible Research on the Web: From Homework, Blogging to Open Journals_, SIAM [CSE13](http://www.siam.org/meetings/cse13/), Boston, MA ([slides](http://dl.dropbox.com/u/15335397/slides/2013-SIAM-CSE13-Yihui-Xie.html))
 - Yihui Xie, 2012, _knitr: Starting From Reproducible Homework_, Workshop on Reproducibility in Computational and Experimental Mathematics, [ICERM](http://icerm.brown.edu/tw12-5-rcem), Brown University, Providence, RI ([slides](https://bitbucket.org/stat/www/downloads/ICERMRR-Yihui-Xie-2012.pdf))
 - Yihui Xie, 2012, _Can You Reproduce Your Homework?_, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD ([slides](http://yihui.name/slides/2012-reproduce-homework.html))
