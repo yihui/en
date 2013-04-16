@@ -37,7 +37,9 @@ The third problem is Travis CI only builds and tests packages; it does not provi
 
 ## R-Forge, where are you going?
 
+<!--
 [R-Forge](http://r-forge.r-project.org/), the most promising "Travis CI" in the R world, is slow and broken from time to time according to my experience. For developers, immediate feedback is precious -- you push some changes to the repository and you want to know immediately if anything is broken. Usually we have to wait for at least one day for the new build on R-Forge. Sometimes the system hangs up for unknown reasons, and the admin has to be notified by users to solve the problem seven days later. There are always requests like "Could you install the foo package for my bar package?" Meanwhile, the development version of R has been disabled for a long time, which is really unfortunate since CRAN insists that packages should be checked against both the current version and the development version of R. What is really funny is that the build and check log links are hidden (by default) behind a button called "Show/Hide extra info". Why don't you want us to see that??
+-->
 
 I will shut up here since I realized I was not being constructive. Let me spend more time thinking about this, and I love to hear suggestions from readers as well.
 
