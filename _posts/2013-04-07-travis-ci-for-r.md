@@ -25,3 +25,5 @@ We, the poor authors, cannot guaranttee that every time our packages can pass CR
 A similar platform in the R world is [Bioconductor](http://bioconductor.org/checkResults/). It has the best two components in software development: version control (although sadly SVN) and continuous checking. I do not know if CRAN will catch up one day. I'm not very optimistic about it; perhaps a more realistic approach is to start a Google Summer of Code project on introducing R into Travis CI. I have no idea how difficult that will be, but I will definitely be thrilled if it comes true this year.
 
 Anyone?
+
+> Update on 04/16/2013: just to clarify, what Bioconductor does is not strictly continuous integration (yet) in the sense that it builds packages daily instead of immediately on changes.
