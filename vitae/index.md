@@ -122,6 +122,7 @@ Sep 2004 - present
 
 Duties in Associations & Centers:
 
+- Data Sharing and Reproducibility Committee, American Statistical Association (2013)
 - Column editor of the [ICSA bulletin](http://icsa.org/bulletin/) for its R column (2012 - 2013)
 - Webmaster of the Center for Applied Statistics, Renmin University of China (2004 - 2009)
 - Vice-chairman of the "Great Expectation Society" (a student association, Apr 2005 - Jul 2006)
