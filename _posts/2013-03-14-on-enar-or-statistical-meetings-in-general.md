@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On ENAR, or Statistical Meetings in General
-categories: [Life]
+categories: [Life, Featured]
 tags: [ENAR, Conference, Johns Hopkins]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Travis CI for R! (not yet)
-categories: [R language]
+categories: [R language, Featured]
 tags: [Travis CI, R Package, R-Forge]
 ---
 

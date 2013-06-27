@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Tips for Writing an R Book
-categories: [R language]
+categories: [R language, Featured]
 tags: [Book, LaTeX, Fonts, knitr]
 ---
 

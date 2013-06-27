@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Reproducible Research Enjoyable
-categories: [R language]
+categories: [R language, Featured]
 tags: [knitr, Reproducible Research, Markdown, LaTeX, Sweave]
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Do Not Need to Tell Me I Have A Typo in My Documentation
-categories: [R language, Computer Science]
+categories: [R language, Computer Science, Featured]
 tags: [GIT, Documentation, Pull Requests]
 ---
 

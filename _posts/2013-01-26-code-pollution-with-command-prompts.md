@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Pollution With Command Prompts
-categories: [R language, Computer Science]
+categories: [R language, Computer Science, Featured]
 tags: [Command Prompt, Source Code]
 ---
 

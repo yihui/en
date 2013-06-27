@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can We Live Without Backslashes?
-categories: [Computer Science]
+categories: [Computer Science, Featured]
 tags: [LyX, LaTeX, Emacs, GUI, Source code]
 ---
 
