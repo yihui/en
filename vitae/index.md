@@ -7,7 +7,7 @@ title: Curriculumn Vitae
 
 ## Contact Information
 
-2215 Snedecor Hall, Department of Statistics, Iowa State University, Ames, 50011, IA  
+2215 Snedecor Hall, Department of Statistics, Iowa State University, Ames, 50011, IA
 Email: xie@yihui.name; Tel: (+1) 515-203-2465 Homepage: <http://yihui.name/>
 
 ## Research Interest
@@ -15,7 +15,7 @@ Email: xie@yihui.name; Tel: (+1) 515-203-2465 Homepage: <http://yihui.name/>
 Statistical computing and graphics / data visualization
 
 ## Education Background
-	
+
 - 2009 ~ Present, PhD student in the Department of Statistics, Iowa State University
 - 2006 ~ 2009, Master of statistics, School of Statistics, Renmin University of China
 - 2002 ~ 2006, Bachelor of Economics, School of Statistics, Renmin University of China
@@ -35,7 +35,7 @@ Statistical computing and graphics / data visualization
 ## Publications
 
 ### In Chinese
-	
+
 1. Yanyun Zhao, Nailin Feng, Yuncheng Zhao, Yihui Xie, Ning Xiao, 2008, Research on the National Quality Competitiveness of China, _Statistical Research_, 25(3), 12-19
 1. Yihui Xie, 2008. On the Applications of Statistical Graphics in Data Analysis, _Statistical Review_, Bo Zhang (ed)
 1. Yihui Xie, 2008. Bootstrap Methods: Developments and Frontiers, _Statistics & Information Forum_, 89, 90-96.
