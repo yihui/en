@@ -213,6 +213,7 @@ I love open source software and below is a list of my contributions to the open 
 - Dokuwiki plugin [animation](http://www.dokuwiki.org/plugin:animation) to insert animations into wiki pages; written in PHP and JavaScript (Jun 2008)
 - R package [animation](http://cran.r-project.org/package=animation) which provides several animation demonstrations for statistical theories and data analysis (Nov 2007 - Present)
 - R package [knitr](http://cran.r-project.org/package=knitr) as an alternative to Sweave
+- R package [testit](https://github.com/yihui/testit) for testing R packages
 - R packages [formatR](http://cran.r-project.org/package=formatR), [Rd2roxygen](http://cran.r-project.org/package=Rd2roxygen), [R2SWF](http://cran.r-project.org/package=R2SWF), [MSG](http://cran.r-project.org/package=MSG), [iBUGS](http://cran.r-project.org/package=iBUGS), [fun](http://cran.r-project.org/package=fun), ...
 - R package [cranvas](https://github.com/ggobi/cranvas/) as the next generation of [GGobi](http://www.ggobi.org)
 - the Sweave and knitr modules in LyX
