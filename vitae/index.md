@@ -56,6 +56,11 @@ Besides, I published several articles in the [Capital of Statistics](http://cos.
 
 ## Professional Experience
 
+### Internship
+
+1. Summer 2012, [AT&T Labs Research](http://research.att.com), Florham, NJ (advisor: [Simon Urbanek](http://urbanek.info))
+1. Summer 2013, [Fred Hutchinson Cancer Research Center](http://www.fhcrc.org) (advisor: [Raphael Gottardo](http://www.rglab.org))
+
 ### Web Construction and Management
 
 Sept 2003 - Present
