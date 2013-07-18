@@ -143,6 +143,7 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- Yihui Xie, 2013, _An Introduction to knitr_, Bioconductor 2013, Seattle, WA ([slides](http://dl.dropbox.com/u/15335397/slides/BioC-2013-Yihui-Xie.html), [R Markdown](http://dl.dropbox.com/u/15335397/slides/BioC-2013-Yihui-Xie.Rpres))
 - Yihui Xie, 2013, _The Development of R in China, and One Sentence Summaries of My R Projects_, Revolution Analytics, Seattle, WA ([slides](https://bitbucket.org/stat/www/downloads/2013-RevoR-Yihui-Xie.pdf))
 - Yihui Xie, 2013, _Doing Reproducible Research Unconsciously: Higher Standard But Less Work_, The 36th annual Midwest Biopharmaceutical Statistics Workshop, Muncie, IN ([slides](http://dl.dropbox.com/u/15335397/slides/knitr-MBSW-Yihui-Xie-2013.html))
 - Yihui Xie, 2013, _Lessons Learned in Developing R Packages_, The 6th Chinese R Conference, Beijing ([slides](http://dl.dropboxusercontent.com/u/15335397/slides/ChinaR-2013-Yihui-Xie.html))
