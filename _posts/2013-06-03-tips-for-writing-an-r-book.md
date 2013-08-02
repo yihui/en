@@ -38,6 +38,7 @@ This is my first book, and obviously there have been a lot for me to learn about
 1. include as many figures as possible (I have 51 figures in this 200-page book), because this will make the number of pages grow faster (I'm evil) so that you will not feel frustrated, and the readers will not fall into the hell of endless text, just pages after pages;
 1. prepare an extra monitor for copyediting;
 1. learn a little bit about `pdftk`, because you may want to use it finally, e.g., replace one page with a blank page in the frontmatter;
+1. learn these [copy editing symbols](http://biostatmatt.com/uploads/ProofreadSymbols.pdf) (thanks, Matt Shotwell);
 
 One thing I did not really understand was the punctuation marks like commas and periods should go _inside_ quotation marks, e.g.,
 
