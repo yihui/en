@@ -10,7 +10,7 @@ tags:
 - Jekyll
 - knitr
 - markdown
-- Reproducible research
+- Reproducible Research
 ---
 
 I was writing comments on the blog post [A proposal for a really fast statistics journal](http://simplystatistics.tumblr.com/post/19289280474/a-proposal-for-a-really-fast-statistics-journal), and I realized the comment box was too small to write down my ideas. I like the proposal a lot, and I feel really bad about the current model of submitting and reviewing papers: it is just too slow! We should not blame it on editors and reviewers; everybody is busy. The question is how to reduce unnecessary efforts in this process. My ideas are close to one possible actual implementation of Jeff's proposal.
