@@ -28,7 +28,11 @@ text(1,1,"Animation",srt=i,col=rainbow(360)[i],cex=7*i/360)
 Sys.sleep(0.01)}
 {% endhighlight %}
 
-Apparently it is pain reading unformatted R code, but on the other hand, it is natural for us to be lazy. I don't care about adding spaces or indent to my raw R code -- I'll concentrate on programming first and format my code later. The R package `[formatR](http://cran.r-project.org/package=formatR)` is intended to help us format our messy R code.
+Apparently it is pain reading unformatted R code, but on the other hand, it
+is natural for us to be lazy. I don't care about adding spaces or indent to
+my raw R code -- I'll concentrate on programming first and format my code
+later. The R package [**formatR**](http://cran.r-project.org/package=formatR)
+is intended to help us format our messy R code.
 
 {% highlight r %}
 # formatR optionally depends on gWidgetsRGtk2
