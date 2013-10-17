@@ -13,7 +13,8 @@ tags:
 - tidy.source()
 ---
 
-It is not uncommon to see messy R code which is almost not human-readable like this:
+It is not uncommon to see messy R code which is almost not human-readable
+like this:
 
 {% highlight r %}
  # rotation of the word "Animation"
@@ -47,7 +48,9 @@ install.packages('gWidgetsRGtk2')
 tidy.gui('RGtk2')
 {% endhighlight %}
 
-Then you can either paste your code into the text box or click the "Open" button to open an existing R code file. Click the "Convert" button and you are done!
+Then you can either paste your code into the text box or click the "Open"
+button to open an existing R code file. Click the "Convert" button and you
+are done!
 
 ![formatR: unformatted R code](http://i.imgur.com/Y55lL.png)
 
@@ -55,8 +58,13 @@ Then you can either paste your code into the text box or click the "Open" button
 
 ![formatR: the Java GUI](http://i.imgur.com/dEhS2.png)
 
-There are several options in the "Preferences" panel, e.g. you can specify whether to keep comments or blank lines, or specify the width of the formatted R code.
+There are several options in the "Preferences" panel, e.g. you can specify
+whether to keep comments or blank lines, or specify the width of the
+formatted R code.
 
-No matter how messy your code looks like, **formatR** can make it tidy and structured as long as there are no syntax errors in your R code. If you prefer the command line interface, you may want to take a look at the function `tidy.source()` in this package.
+No matter how messy your code looks like, **formatR** can make it tidy and
+structured as long as there are no syntax errors in your R code. If you
+prefer the command line interface, you may want to take a look at the
+function `tidy.source()` in this package.
 
 Note that multi-byte characters (say, Chinese) are also supported in the GUI.
