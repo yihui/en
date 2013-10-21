@@ -16,6 +16,8 @@ tags:
 - RODBC
 ---
 
+> Warning: as one of the readers pointed out in the comments below, this post may not be really helpful if you want to read Excel files into R, so please read at your own risk!
+
 As Sir Francis Bacon said, "Histories make men wise; poets witty; the mathematics subtile^1 ; natural philosophy deep; moral grave; logic and rhetoric able to contend." And Windows stupid.
 
 He should have added the last sentence if he were a Windows user in this age.
