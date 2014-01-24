@@ -7,8 +7,8 @@ title: Curriculumn Vitae
 
 ## Contact Information
 
-2215 Snedecor Hall, Department of Statistics, Iowa State University, Ames, 50011, IA
-Email: xie@yihui.name; Tel: (+1) 515-203-2465 Homepage: <http://yihui.name/>
+102 Snedecor Hall, Department of Statistics, Iowa State University, Ames, 50011, IA
+Email: xie@yihui.name; Homepage: <http://yihui.name/>
 
 ## Research Interest
 
@@ -16,8 +16,8 @@ Statistical computing and graphics / data visualization
 
 ## Education Background
 
-- 2009 ~ Present, PhD student in the Department of Statistics, Iowa State University
-- 2006 ~ 2009, Master of statistics, School of Statistics, Renmin University of China
+- 2009 ~ 2013, PhD in Statistics, Department of Statistics, Iowa State University
+- 2006 ~ 2009, Master of Statistics, School of Statistics, Renmin University of China
 - 2002 ~ 2006, Bachelor of Economics, School of Statistics, Renmin University of China
 
 ## Honors & Awards
@@ -37,24 +37,27 @@ Statistical computing and graphics / data visualization
 ### In Chinese
 
 1. Yanyun Zhao, Nailin Feng, Yuncheng Zhao, Yihui Xie, Ning Xiao, 2008, Research on the National Quality Competitiveness of China, _Statistical Research_, 25(3), 12-19
-1. Yihui Xie, 2008. On the Applications of Statistical Graphics in Data Analysis, _Statistical Review_, Bo Zhang (ed)
+1. Yihui Xie, 2008. On the Applications of Statistical Graphics in Data Analysis, _Statistics Review_, Bo Zhang (ed)
 1. Yihui Xie, 2008. Bootstrap Methods: Developments and Frontiers, _Statistics & Information Forum_, 89, 90-96.
-1. Yihui Xie, 2007. The Application of the Classification and Regression Tree Based on the Package rpart in R, _Statistics & Information Forum_, 86, 67-70.
+1. Yihui Xie, 2007. The Application of the Classification and Regression Tree Based on the Package **rpart** in R, _Statistics & Information Forum_, 86, 67-70.
 1. Yihui Xie, 2007. Series in International Competitiveness: How Weak is the Financial System of China?, _China Statistics_, 7, 35.
 1. Yanyun Zhao, Yihui Xie, 2006. Unbalanced growth in top 100 industrial enterprises in China: market expanding outgoes business managing, _Talents_, 9, 84.
 1. Yanyun Zhao, Yihui Xie, 2005. Who is the champion of growth among top 1000 industrial enterprises in China: analysis on the capability of market expanding and aggregate efficiency, _Talents_, 9, 72-73.
 
+Besides, I published several articles in the [Capital of Statistics](http://cos.name/) in Chinese.
+
 ### In English
 
-1. Yihui Xie (2013) [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
-1. Yihui Xie (2013) knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
-1. Yihui Xie (2013) _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_, Journal of Statistical Software (accepted; [draft manuscript](https://github.com/downloads/yihui/yihui.github.com/JSS-animation-2012-Yihui-Xie.pdf))
+1. Michael Donohue and Yihui Xie. _Reproducible Clinical Trial Reports with R_. Chapman and Hall/CRC. (under development)
+1. Yihui Xie (2014). knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
+1. Yihui Xie (2013). [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
+1. Yihui Xie (2013). _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_. Journal of Statistical Software, 53(1), 1-27. URL <http://www.jstatsoft.org/v53/i01/>
 1. Yihui Xie and Xiaoyue Cheng, 2008. _animation: A Package for Statistical Animations_, R News, 8(**2**). URL: <http://www.r-project.org/doc/Rnews/Rnews_2008-2.pdf>
 1. Yihui Xie, 2007. _Visualization of Data and Statistical Models Using R_, Proceedings of the 3rd Conference on Australia-China Free Trade Agreement (ACFTA): Econometric Modeling and Policy in Trade, Investment and Economic Integration ([paper](https://github.com/downloads/yihui/yihui.github.com/R-visualization-paper-2007-Yihui-Xie.pdf))
 
-Besides, I published several articles in the [Capital of Statistics](http://cos.name/) in Chinese.
-
 ## Professional Experience
+
+I'm currently a software engineer at RStudio, Inc.
 
 ### Internship
 
