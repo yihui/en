@@ -111,7 +111,7 @@ and I helped organize these conferences:
 
 May 2005 - Present
 
-I offer statistical consulting by email and I have been answering questions in the [Capital of Statistics](http://cos.name/cn/) almost every day. I'm happy to see these topics:
+I offer statistical consulting by email and I have been answering questions in the [Capital of Statistics](http://cos.name/cn/) almost every day. I'm particularly interested in these topics:
 
 - data analysis and visualization
 - theoretical problems without measure theory
@@ -218,14 +218,14 @@ Listed above are what I'm very familiar with, and the ones being crossed out are
 
 ## Software Packages
 
-I love open source software and below is a list of my contributions to the open source community:
+I support open source software and below is a list of my contributions to the open source community:
 
 - Wordpress plugin [UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/) (June 2009)
 - Dokuwiki plugin [animation](http://www.dokuwiki.org/plugin:animation) to insert animations into wiki pages; written in PHP and JavaScript (Jun 2008)
 - R package [animation](http://cran.r-project.org/package=animation) which provides several animation demonstrations for statistical theories and data analysis (Nov 2007 - Present)
-- R package [knitr](http://cran.r-project.org/package=knitr) as an alternative to Sweave
+- R package [knitr](http://cran.r-project.org/package=knitr) as an alternative to Sweave for dynamic report generation
 - R package [testit](https://github.com/yihui/testit) for testing R packages
 - R packages [formatR](http://cran.r-project.org/package=formatR), [Rd2roxygen](http://cran.r-project.org/package=Rd2roxygen), [R2SWF](http://cran.r-project.org/package=R2SWF), [MSG](http://cran.r-project.org/package=MSG), [iBUGS](http://cran.r-project.org/package=iBUGS), [fun](http://cran.r-project.org/package=fun), ...
-- R package [cranvas](https://github.com/ggobi/cranvas/) as the next generation of [GGobi](http://www.ggobi.org)
+- R package [cranvas](https://github.com/ggobi/cranvas/) as the next generation of [GGobi](http://www.ggobi.org) for interactive statistical graphics
 - the Sweave and knitr modules in LyX
 
