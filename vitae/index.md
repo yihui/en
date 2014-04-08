@@ -146,6 +146,8 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- Yihui Xie, 2014, _How to Save More Time from Your Homework and Projects_, a guest lecture for Stat 416 at Iowa State University ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-STAT416-Yihui-Xie.html))
+- Yihui Xie, 2014, _An Introduction to knitr_, a remote talk for the Orange County R User Group ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-OC-RUG-Yihui-Xie.html))
 - Yihui Xie, 2014, _R Markdown v2_, Seattle R User Meetup, Seattle, WA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/Seattle-useR-2014-Yihui-Xie.html))
 - Yihui Xie, 2013, _knitr for ninja_, a distance talk at the New York R Users Group ([slides](http://bit.ly/18SIMpu))
 - Yihui Xie, 2013, _A tour through knitr_, Raphael Gottardo's research lab, Fred Hutchinson Cancer Research Center, Seattle, WA ([slides](http://dl.dropbox.com/u/15335397/slides/FHCRC-rglab-2013-Yihui-Xie.html); [same talk given to the stats group](http://dl.dropbox.com/u/15335397/slides/FHCRC-VTN-2013-Yihui-Xie.html))
