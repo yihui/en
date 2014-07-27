@@ -14,7 +14,7 @@ After I tweeted about it, some useRs seemed to be unhappy and asked me why. Both
 
 One bad consequence of `require()` is that if you `require('foo')` in the beginning of an R script, and use a function `bar()` in the **foo** package on line 175, R will throw an error _object "bar" not found_ if **foo** was not installed. That is too late and sometimes difficult for other people to understand if they use your script but are not familiar with the **foo** package -- they may ask, what is the `bar` object, and where is it from? When your code is going to fail, fail loudly, early, and with a relevant error message. `require()` does not signal an error, and `library()` does.
 
-Sometimes you do need `require()` to use a package conditionally (the sun is not going to explode without this package), in which case you may use an `if` statement, e.g.
+Sometimes you do need `require()` to use a package conditionally (e.g. the sun is not going to explode without this package), in which case you may use an `if` statement, e.g.
 
 {% highlight r %}
 if (require('foo')) {
