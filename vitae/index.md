@@ -146,6 +146,9 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- Yihui Xie, 2014, _Knitr Ninja_, a talk given at UseR! 2014, UCLA ([slides](https://github.com/yihui/knitr-talks/tree/master/useR2014))
+- Yihui Xie, 2014, _Dynamic Documents with R and knitr_, a tutorial given at UseR! 2014, UCLA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-useR-knitr-tutorial-Yihui-Xie.html); [examples](https://www.dropbox.com/s/0mabfshkbpe9bp1/2014-useR-knitr-tutorial-examples.zip))
+- Yihui Xie, 2014, _The Next Generation of Dynamic Documents with R Markdown_, Great Plains [R-Users Group](http://homepages.dordt.edu/ntintle/gprug/) Conference, Sioux Center, Iowa ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-Dordt-Yihui-Xie.html))
 - Yihui Xie, 2014, _How I Managed to Find Time to Play Badminton Three Times A Week_, a talk in the Department of Animal Science, ISU ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-ISU-ANS-Yihui-Xie.html))
 - Yihui Xie, 2014, _New developments in knitr and R Markdown v2_, LA R user group ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/LARUG-2014-Yihui-Xie.html))
 - Yihui Xie, 2014, _Dynamic and Interactive Statistical Reporting_, a talk in the Department of Statistics, UCLA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/UCLA-2014-Yihui-Xie.html))
