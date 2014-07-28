@@ -24,7 +24,7 @@ if (require('foo')) {
 }
 {% endhighlight %}
 
-But it is common to see R code like this as well:
+That should be what `require()` was designed for, but it is common to see R code like this as well:
 
 {% highlight r %}
 if (!require('foo')) {
@@ -42,6 +42,10 @@ Then `if (!require('foo')) stop()` is basically "if you _failed_ to _try_ to _lo
 There is one legitimate reason to use `require()`, though, and that is, "require is a verb and library is a noun!" I completely agree. `require` should have been a very nice name to choose for the purpose of loading a package, but unfortunately... you know.
 
 If you take a look at the [StackOverflow question](http://stackoverflow.com/q/5595512/559676) on this, you will see a comment on "package vs library" was up-voted a lot of times. It used to make a lot of sense to me, but now I do not care as much as I did. There have been useRs (including me up to a certain point) desperately explaining the difference between the two terms _package_ and _library_, but somehow I think R's definition of a _library_ is indeed unusual, and the function `library()` makes the situation worse. Now I'm totally fine if anyone calls my packages "libraries", because I know what you mean.
+
+Karthik Ram [suggested](https://twitter.com/_inundata/status/493481266365607936) this GIF to express "Ah a new _library_, but _require_? [Noooooo](http://nooooooooooooooo.com)":
+
+![](http://i.imgur.com/wygGyI1.gif)
 
 Since you have read the source code, Luke, you may have found that you can abuse `require()` a bit, for example:
 
@@ -72,7 +76,7 @@ So `require()` failed not because **MASS** and **nnet** did not exist, but becau
 
 One thing off-topic while I'm talking about these two functions: the argument `character.only = FALSE` for `library()` and `require()` is a design mistake in my eyes. It seems the original author(s) wanted to be lazy to avoid typing the quotes around the package name, so `library(foo)` works like `library("foo")`. Once you show people they can be lazy, you can never pull them back. Apparently, the editors of JSS (Journal of Statistical Software) have been trying to promote the form `library("foo")` and discourage `library(foo)`, but I do not think it makes much sense now or it will change anything. If it were in the 90's, I'd wholeheartedly support it. It is simply way too late now. Yes, two extra quotation marks will kill many kittens on this planet. If you are familiar with *nix commands, this idea is not new -- just think about `tar -z -x -f`, `tar -zxf`, and `tar zxf`.
 
-One last annoying issue with `require()` is that it is noisy by default, because of the default `quietly = FALSE`, e.g.
+One last mildly annoying issue with `require()` is that it is noisy by default, because of the default `quietly = FALSE`, e.g.
 
 {% highlight r %}
 > require('nnet')
