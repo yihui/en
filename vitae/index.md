@@ -147,6 +147,8 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- JJ Allaire & Yihui Xie, 2014, _Reproducible R Reports with Packrat and Rmarkdown _, [R Day](http://strataconf.com/stratany2014/public/schedule/detail/37037) at Strata New York
+- Yihui Xie, 2014, _Reproducible Research Is Dead, Long Live Reproducible Research!_, a talk given at JSM 2014, Boston, MA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-JSM-knitr-Yihui-Xie.html))
 - Yihui Xie, 2014, _Knitr Ninja_, a talk given at UseR! 2014, UCLA ([slides](https://github.com/yihui/knitr-talks/tree/master/useR2014))
 - Yihui Xie, 2014, _Dynamic Documents with R and knitr_, a tutorial given at UseR! 2014, UCLA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-useR-knitr-tutorial-Yihui-Xie.html); [examples](https://www.dropbox.com/s/0mabfshkbpe9bp1/2014-useR-knitr-tutorial-examples.zip))
 - Yihui Xie, 2014, _The Next Generation of Dynamic Documents with R Markdown_, Great Plains [R-Users Group](http://homepages.dordt.edu/ntintle/gprug/) Conference, Sioux Center, Iowa ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-Dordt-Yihui-Xie.html))
