@@ -16,19 +16,19 @@ It seems that the two results are equivalent, as H and T occurs with equal proba
 {% highlight r %}
 ## smart guys use math formulae to solve the problem,
 ## but *lazy* guys like me use simulations with R
-coin.seq = function(v) {
-    x = NULL
-    n = 0
-    while (!identical(x, v)) {
-        x = append(x[length(x) - 1:0], rbinom(1, 1, 0.5))
+coin_seq = function(v) {
+    x = rbinom(3, 1, 0.5)  # sequence of coin results
+    n = 3  # a counter
+    while (!all(x == v)) {
+        x = c(x[-1], rbinom(1, 1, 0.5))
         n = n + 1
     }
     n
 }
 set.seed(919)
-mean(htt <- replicate(1e+05, coin.seq(c(1, 0, 0))))
+mean(htt <- replicate(1e+05, coin_seq(c(1, 0, 0))))
 # [1] 8.00304
-mean(hth <- replicate(1e+05, coin.seq(c(1, 0, 1))))
+mean(hth <- replicate(1e+05, coin_seq(c(1, 0, 1))))
 # [1] 10.0062
 
 png("coin-htt-hth.png", height = 150, width = 500)
