@@ -7,7 +7,7 @@ title: Curriculum Vitae
 
 ## Contact Information
 
-102 Snedecor Hall, Department of Statistics, Iowa State University, Ames, 50011, IA
+2609 Ferndale Ave Unit 9, Ames, 50010, IA
 Email: xie@yihui.name; Homepage: <http://yihui.name/>
 
 ## Research Interest
