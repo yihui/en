@@ -131,7 +131,6 @@ Sep 2004 - present
 
 Duties in Associations & Centers:
 
-- Chief editor of the [ICSA bulletin](http://icsa.org/bulletin/) (2015 - 2017)
 - Data Sharing and Reproducibility Committee, American Statistical Association (2013)
 - Column editor of the [ICSA bulletin](http://icsa.org/bulletin/) for its R column (2012 - 2013)
 - Webmaster of the Center for Applied Statistics, Renmin University of China (2004 - 2009)
