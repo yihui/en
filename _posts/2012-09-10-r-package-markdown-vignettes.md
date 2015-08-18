@@ -25,7 +25,7 @@ You can also see links to vignettes from `help.start()`: click `Packages` and go
 
 {% highlight r %}
 help.start()
-browseURL(paste0('http://127.0.0.1:', tools:::httpdPort,
+browseURL(paste0('http://127.0.0.1:', tools:::httpdPort(),
           '/library/knitr/doc/index.html'))
 {% endhighlight %}
 
