@@ -7,7 +7,7 @@ title: Curriculum Vitae
 
 ## Contact Information
 
-2609 Ferndale Ave Unit 9, Ames, 50010, IA
+14807 Pratt CT Apt 301, Omaha NE 68116
 Email: xie@yihui.name; Homepage: <http://yihui.name/>
 
 ## Research Interest
@@ -48,7 +48,10 @@ Besides, I published several articles in the [Capital of Statistics](http://cos.
 
 ### In English
 
+<!--
 1. Michael Donohue and Yihui Xie. _Reproducible Clinical Trial Reports with R_. Chapman and Hall/CRC. (under development)
+-->
+1. Yihui Xie (2015). [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781498716963). 2nd edition. Chapman and Hall/CRC. ISBN 978-1498716963
 1. Yihui Xie, Heike Hofmann, and Xiaoyue Cheng (2014). _Reactive Programming for Interactive Graphics_. Statistical Science, 29(**2**), 201-213. ([PDF](https://bitbucket.org/stat/www/downloads/STS477.pdf))
 1. Yihui Xie (2014). knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
 1. Yihui Xie (2013). [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
@@ -131,6 +134,7 @@ Sep 2004 - present
 
 Duties in Associations & Centers:
 
+- Program chair, Section on Statistical Graphics, American Statistical Association (2015)
 - Data Sharing and Reproducibility Committee, American Statistical Association (2013)
 - Column editor of the [ICSA bulletin](http://icsa.org/bulletin/) for its R column (2012 - 2013)
 - Webmaster of the Center for Applied Statistics, Renmin University of China (2004 - 2009)
@@ -147,6 +151,14 @@ Projects Participated:
 
 ## Presentations & Lectures
 
+- Yihui Xie, 2015, _Reproducible Reports with Big Data_, Strata, New York City ([slides](http://conferences.oreilly.com/strata/big-data-conference-ny-2015/public/schedule/detail/44154))
+- Yihui Xie, 2015, _Escape the Land of LaTeX/Word for Statistical Reporting: The Ecosystem of R Markdown_
+  - March, Wright State University, Dayton, Ohio ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2015-Wright-State-Yihui-Xie.html))
+  - July, Central Iowa R User Group
+  - September, ASA webinar ([slides](https://docs.google.com/presentation/d/1RJeypFW1y9vtG_kCoREN5D16jX3KNrc_qzGMGygQs2E/edit?usp=sharing))
+  - October, RStudio webinar ([slides](https://github.com/rstudio/webinars/blob/master/13-R-Markdown-Ecosystem); [video](https://vimeo.com/143893476))
+- Yihui Xie, 2015, _Boosting R Skills and Automating Statistical Reports_, New England Statistical Symposium, UConn
+- Yihui Xie, 2015, _HTML Widgets_, LA R User Group ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2015-htmlwidgets-LA-Yihui-Xie.html); [video](http://datascience.la/yihui-xie-presents-html-widgets/))
 - Yihui Xie & Dirk Eddelbuettel, 2014, An [R Workshop](http://ditraglia.com/RWorkshop/) at the Warren Center of UPenn, Philadelphia, PA
 - JJ Allaire & Yihui Xie, 2014, _Reproducible R Reports with Packrat and Rmarkdown _, [R Day](http://strataconf.com/stratany2014/public/schedule/detail/37037) at Strata New York
 - Yihui Xie, 2014, _Reproducible Research Is Dead, Long Live Reproducible Research!_, a talk given at JSM 2014, Boston, MA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-JSM-knitr-Yihui-Xie.html))
@@ -242,4 +254,3 @@ I support open source software and below is a list of my contributions to the op
 - the Sweave and knitr modules in LyX
 - Wordpress plugin [UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/) (June 2009)
 - Dokuwiki plugin [animation](http://www.dokuwiki.org/plugin:animation) to insert animations into wiki pages; written in PHP and JavaScript (Jun 2008)
-
