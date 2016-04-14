@@ -1,6 +1,4 @@
-markdown: redcarpet
 permalink: /:year/:month/:title/
 url: http://yihui.name/en
 author: Yihui Xie
-highlighter: pygments
 
