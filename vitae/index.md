@@ -7,12 +7,11 @@ title: Curriculum Vitae
 
 ## Contact Information
 
-14807 Pratt CT Apt 301, Omaha NE 68116
-Email: xie@yihui.name; Homepage: <http://yihui.name/>
+Email: xie@yihui.name; Homepage: <http://yihui.name>
 
 ## Research Interest
 
-Statistical computing and graphics / data visualization
+Statistical computing, statistical graphics, data visualization, reproducible research
 
 ## Education Background
 
@@ -22,10 +21,10 @@ Statistical computing and graphics / data visualization
 
 ## Honors & Awards
 
-- [Snedecor Award](http://www.stat.iastate.edu/graduate-program/grad-finances/), 2012 (the most outstanding PhD candidate in the Department of Statistics, Iowa State University)
-- Honorable Mention Prize, Applications of R in Business [Competition](http://bit.ly/wP1Dii), 2012
-- [Vince Sposito](http://www.stat.iastate.edu/graduate-program/grad-finances/) Statistical Computing Award, 2011 (Department of Statistics, Iowa State University)
-- John M. Chambers Statistical Software [Award](http://stat-computing.org/awards/jmc/winners.html), ASA, 2009 (for the R package [animation](http://cran.r-project.org/package=animation))
+- [Snedecor Award](http://stat.iastate.edu/graduate-financial-support), 2012 (the most outstanding PhD candidate in the Department of Statistics, Iowa State University)
+- Honorable Mention Prize, the Applications of R in Business [Competition](http://bit.ly/wx4bFb), 2012
+- [Vince Sposito](http://stat.iastate.edu/graduate-financial-support) Statistical Computing Award, 2011 (Department of Statistics, Iowa State University)
+- John M. Chambers Statistical Software [Award](http://stat-computing.org/awards/jmc/winners.html), ASA, 2009 (for the R package [animation](https://github.com/yihui/animation))
 - Excellent graduate scholarship, Renmin University of China, 2007
 - Successful Participant, Mathematical Contest in Modeling (America), 2006 ([paper](https://github.com/downloads/yihui/yihui.github.com/MCM-2006-paper-Yihui-Xie.pdf); [certificate](http://i.imgur.com/c3soC.jpg "Certificate of Mathematical Contest in Modelling (America)"))
 - Excellent graduate of Renmin University of China, 2006
@@ -35,6 +34,13 @@ Statistical computing and graphics / data visualization
 ## Publications
 
 ### In Chinese
+
+Books under development:
+
+1. [R Ninja](https://bookdown.com/yihui/r-ninja)
+1. [Modern Statistical Graphics](https://github.com/yihui/MSG)
+
+Papers:
 
 1. Yanyun Zhao, Nailin Feng, Yuncheng Zhao, Yihui Xie, Ning Xiao, 2008, Research on the National Quality Competitiveness of China, _Statistical Research_, 25(3), 12-19
 1. Yihui Xie, 2008. On the Applications of Statistical Graphics in Data Analysis, _Statistics Review_, Bo Zhang (ed)
@@ -48,13 +54,16 @@ Besides, I published several articles in the [Capital of Statistics](http://cos.
 
 ### In English
 
-<!--
-1. Michael Donohue and Yihui Xie. _Reproducible Clinical Trial Reports with R_. Chapman and Hall/CRC. (under development)
--->
+Books and book chapters:
+
+1. Yihui Xie (2016). [_bookdown: Authoring Books and Technical Documents with R Markdown_](https://bookdown.org/yihui/bookdown). Chapman and Hall/CRC. ISBN 978-1138700109
 1. Yihui Xie (2015). [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781498716963). 2nd edition. Chapman and Hall/CRC. ISBN 978-1498716963
-1. Yihui Xie, Heike Hofmann, and Xiaoyue Cheng (2014). _Reactive Programming for Interactive Graphics_. Statistical Science, 29(**2**), 201-213. ([PDF](https://bitbucket.org/stat/www/downloads/STS477.pdf))
 1. Yihui Xie (2014). knitr: [_A Comprehensive Tool for Reproducible Research in R_](http://www.crcpress.com/product/isbn/9781466561595). In Victoria Stodden, Friedrich Leisch and Roger D. Peng, editors, Implementing Reproducible Computational Research. Chapman and Hall/CRC. ISBN 978-1466561595
 1. Yihui Xie (2013). [_Dynamic Documents with R and knitr_](http://www.crcpress.com/product/isbn/9781482203530). Chapman and Hall/CRC. ISBN 978-1482203530
+
+Papers:
+
+1. Yihui Xie, Heike Hofmann, and Xiaoyue Cheng (2014). _Reactive Programming for Interactive Graphics_. Statistical Science, 29(**2**), 201-213. ([PDF](https://bitbucket.org/stat/www/downloads/STS477.pdf))
 1. Yihui Xie (2013). _animation: An R Package for Creating Animations and Demonstrating Statistical Methods_. Journal of Statistical Software, 53(1), 1-27. URL <http://www.jstatsoft.org/v53/i01/>
 1. Yihui Xie and Xiaoyue Cheng, 2008. _animation: A Package for Statistical Animations_, R News, 8(**2**). URL: <http://www.r-project.org/doc/Rnews/Rnews_2008-2.pdf>
 1. Yihui Xie, 2007. _Visualization of Data and Statistical Models Using R_, Proceedings of the 3rd Conference on Australia-China Free Trade Agreement (ACFTA): Econometric Modeling and Policy in Trade, Investment and Economic Integration ([paper](https://github.com/downloads/yihui/yihui.github.com/R-visualization-paper-2007-Yihui-Xie.pdf))
@@ -68,48 +77,48 @@ I'm currently a software engineer at RStudio, Inc.
 1. Summer 2012, [AT&T Labs Research](http://research.att.com), Florham, NJ (mentor: [Simon Urbanek](http://urbanek.info))
 1. Summer 2013, [Fred Hutchinson Cancer Research Center](http://www.fhcrc.org) (mentor: [Raphael Gottardo](http://www.rglab.org))
 
-### Web Construction and Management
+### Website Management
 
 Sept 2003 - Present
 
-I have made and been maintaining web pages for:
+I created and maintained web pages for:
 
-- [The School of Statistics](http://stat.ruc.edu.cn/), Renmin University of China (Sept 2003 - Jun 2009)
-- [The Center for Applied Statistics](http://www.applstats.org/), Renmin University of China (Apr 2004 - Jun 2009)
+- [The School of Statistics](http://stat.ruc.edu.cn), Renmin University of China (Sept 2003 - Jun 2009)
+- [The Center for Applied Statistics](http://www.applstats.org), Renmin University of China (Apr 2004 - Jun 2009)
 - The Center for Risk Management and Actuarial Studies (Jun 2004 - Apr 2006); Data Mining Center of Renmin University of China (Jul 2004 - Apr 2006), etc
 - The "Great Expectation Society", a student society in Renmin University (Mar 2005 - Jul 2006)
 
-I have built and been hosting this web forum:
+I founded and have been maintaining:
 
-- "[Capital of Statistics](http://cos.name/)" for web discussion of statistics (both [Chinese](http://cos.name/) and [English](http://cos.name/en/)) (May 2006 - Present)
+- "[Capital of Statistics](http://cos.name)", a popular online community for statistics in China (May 2006 - Present)
 
-I have been working in these web studios:
+I worked in these web studios:
 
 - The English web studio of Renmin University of China (for the construction of English website of the university) (Sept 2006 - Jun 2009)
 - The web club of the School of Statistics (as the founder & leader) (Apr 2006 - 2008)
 
-My own projects:
+My personal projects:
 
 - AniWiki: Animations in Statistics (<http://animation.yihui.name/>)
 - knitr: Elegant, flexible and fast dynamic report generation with R (<http://yihui.name/knitr>)
 
-### Conferences Organization
+### Conference Organization
 
 Feb 2005 - Present
 
-I organized
+I initiated the Chinese R conference in 2008, and organized
 
 - the 1st Chinese R [conference](http://cos.name/2008/12/1st-chinese-r-conference-summary/) (in Beijing), Dec 13~14, 2008
 
-and I helped organize these conferences:
+I helped organize these conferences:
 
 - the 3rd Chinese R [conference](http://cos.name/chinar/chinar-2010/) (Beijing), Jun 12~13, 2010
 - the 2nd Chinese R [conference](http://cos.name/chinar/chinar-2009/) (Beijing & Shanghai), December 2009
 - Second [Conference](http://www.merit.unu.edu/MEIDE/) on Micro Evidence on Innovation in Developing Economies, April 22 ~ 23, 2008 (an international conference; I was also the Chair for the last session on April 22)
-- 2nd [Conference](http://www.applstats.org/english/io/index.htm) on Australia-China Free Trade Agreement (ACFTA): Econometric Modeling and Policy in Trade, Investment and Economic Integration, April 17th ~ 18th, 2006
-- 15th International [Conference](http://stat.ruc.edu.cn/en/21940.html) on Input-Output Techniques, June 27th ~ July 1st, 2005
-- Data Mining and Business Intelligence Conference 2006
-- International Statistics [Forum](http://stat.ruc.edu.cn/en/22120.html) 2006
+- the 2nd [Conference](http://www.applstats.org/english/io/index.htm) on Australia-China Free Trade Agreement (ACFTA): Econometric Modeling and Policy in Trade, Investment and Economic Integration, April 17th ~ 18th, 2006
+- the 15th International [Conference](http://stat.ruc.edu.cn/en/21940.html) on Input-Output Techniques, June 27th ~ July 1st, 2005
+- the Data Mining and Business Intelligence Conference 2006
+- the International Statistics [Forum](http://stat.ruc.edu.cn/en/22120.html) 2006
 
 ### Statistical Consulting
 
@@ -120,19 +129,19 @@ I offer statistical consulting by email and I have been answering questions in t
 - data analysis and visualization
 - theoretical problems without measure theory
 - linear models, generalized linear models and nonlinear models
-- R packages that I maintain (other questions on R should go to R-help or StackOverflow)
+- R packages that I maintain (other questions on R should be asked on StackOverflow)
 - statistics in other disciplines (e.g. biology) in which I can also learn something from you
-- real world data mining
+- real world data mining and machine learning
 - simulation
 - teaching
 
-I will ignore any questions on Structural Equation Modeling (SEM) or factor analysis, as I do not believe their usefulness at all. I know little about time series and do not like econometrics.
+I ignore any questions on Structural Equation Modeling (SEM) or factor analysis, as I do not believe their usefulness at all. I know little about time series and do not like econometrics. I have little interest in _quantitative_ research in social science.
 
 ### Other Work Experience
 
 Sep 2004 - present
 
-Duties in Associations & Centers:
+Duties in associations & centers:
 
 - Program chair, Section on Statistical Graphics, American Statistical Association (2015)
 - Data Sharing and Reproducibility Committee, American Statistical Association (2013)
@@ -140,46 +149,67 @@ Duties in Associations & Centers:
 - Webmaster of the Center for Applied Statistics, Renmin University of China (2004 - 2009)
 - Vice-chairman of the "Great Expectation Society" (a student association, Apr 2005 - Jul 2006)
 
-Projects Participated:
+Projects participated:
 
-- Google Summer of Code [2012](http://www.google-melange.com/gsoc/project/google/gsoc2012/cloud_wei/16001): Dynamic report generation in the web with R (mentor)
-- Translation of [R for beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) by Emmanuel Paradis (Co-operated with some colleagues to finish the translation) (Nov 2005 - Feb 2006);
+- Google Summer of Code [2012](http://www.google-melange.com/gsoc/project/google/gsoc2012/cloud_wei/16001): Dynamic report generation on the web with R (I was the mentor);
+- Translation of [R for beginners](http://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf) by Emmanuel Paradis (Collaborated with some colleagues on the translation) (Nov 2005 - Feb 2006);
 - Performance Evaluation of Taxation Management of _the China Customs_ (designed several R programs for sampling databases using R) (Sept 2006 - Jun 2009);
 - Important Projects in Social Science of _the Ministry of Education_: Research on the Industry Competitiveness of China (Apr 2007 - May 2007);
 - A research project on statistical quality control co-operated with _China National Research Institute of Food and Fermentation Industries, National Standardization Centre of Food & Fermentation Industry, P.R.C._; [R (D)COM](http://sunsite.univie.ac.at/rcom/) was used in developing programs (May 2007 - Jun 2009)
-- Cooperative project with the Office of 1% Population Sampling Survey of _the State Department_: Research on the National Population Competitiveness of China (Jun 2007 - Nov 2007, report finished)
+- Cooperative project with the Office of 1% Population Sampling Survey of _the State Department_: Research on the National Population Competitiveness of China (Jun 2007 - Nov 2007)
 
-## Presentations & Lectures
+## Presentations & Tutorials
 
+- Yihui Xie, 2016, _bookdown: Authoring Books with R Markdown_, Department of Statistics, Colorado State University ([slides](http://slides.yihui.name/2016-CSU-bookdown-Yihui-Xie.html))
+- Yihui Xie, 2016, _Sharing the Fun of Using/Developing A Few R Packages_, Department of Statistics, Colorado State University
+- Yihui Xie, 2016, _Authoring Books with R Markdown_, a webinar at RStudio ([slides](http://slides.yihui.name/2016-webinar-bookdown-Yihui-Xie.html); [video](https://www.rstudio.com/resources/webinars/introducing-bookdown/))
+- Yihui Xie, 2016, _Reproducibility in Statistics and Data Science (Discussion)_, JSM 2016, Chicago ([slides](http://slides.yihui.name/2016-repro-JSM-Yihui-Xie.html))
+- Yihui Xie, 2016, _HTML Widgets: Interactive Visualizations from R Made Easy!_, JSM 2016, Chicago ([slides](http://slides.yihui.name/2016-htmlwidgets-JSM-Yihui-Xie.html))
+- Yihui Xie and Hadley Wickham, 2016, _Authoring Books with R Markdown_, useR! 2016, Stanford University ([slides](http://slides.yihui.name/2016-useR-bookdown-Yihui-Xie.html))
+- Yihui Xie, Karl Broman, and Ian Lyttle, 2016, _Dynamic Documents with R Markdown_, a tutorial at useR! 2016, Stanford University ([slides](http://slides.yihui.name/2016-useR-rmarkdown-Yihui-Xie.html))
+- Yihui Xie, 2016, _Pleasant Book Writing with bookdown_, the 9th China-R conference, Beijing ([slides](http://slides.yihui.name/2016-China-R-bookdown-Yihui-Xie.html))
+- Yihui Xie, 2016, _CosPlay R_, the 9th China-R conference, Beijing
+- Yihui Xie, 2016, _R Markdwon: A Convenient Toolset for Academic Writing and Data Analysis_, Ocean University of China, Qingdao ([slides](http://slides.yihui.name/2016-OUC-Yihui-Xie.html))
+- Yihui Xie, 2016, _Some Interesting Packages for Interactive Graphics_, School of Economics, Qingdao University, Qingdao
+- Yihui Xie, 2016, _Shiny and HTML Widgets in R_, Greater Omaha Tableau User Group, University of Nebraska at Omaha ([slides](http://slides.yihui.name/2016-UNO-Shiny-Yihui-Xie.html))
+- Yihui Xie, 2016, _Authoring Books with R Markdown_, the Chicago chapter of ASA, Chicago ([slides](http://slides.yihui.name/2016-ASAChicago-bookdown-Yihui-Xie.html))
+- Yihui Xie, 2016, _Get Ready to Write A Book Now_
+    - 03/31, University of Chicago ([slides](http://slides.yihui.name/2016-UChicago-bookdown-Yihui-Xie.html))
+    - 02/17, Department of Statistics, University of Nebraska at Lincoln ([slides](http://slides.yihui.name/2016-UNL-bookdown-Yihui-Xie.html))
+- Yihui Xie, 2016, _Complex Application Layouts with Grid Style Sheets_, Shiny Developer Conference, Stanford University ([slides](http://slides.yihui.name/2016-Shiny-GSS-Yihui-Xie.html))
+- Yihui Xie, 2016, _Interfacing DataTables_, Shiny Developer Conference, Stanford University ([slides](http://slides.yihui.name/2016-Shiny-DT-Yihui-Xie.html))
+- Yihui Xie, 2015, _Reflections on R Package Developemnt a Software Engineer_, the 8th China-R conference, Nanchang, China ([slides in Chinese](http://slides.yihui.name/2015-Nanchang-R-Yihui-Xie.html))
 - Yihui Xie, 2015, _Reproducible Reports with Big Data_, Strata, New York City ([slides](http://conferences.oreilly.com/strata/big-data-conference-ny-2015/public/schedule/detail/44154))
+- Yihui Xie, 2015, _A Quick Dream in Ten Years_, Renmin University of China, Beijing ([slides in Chinese](http://slides.yihui.name/2015-RUC-alumni-sympo-Yihui-Xie.html)
 - Yihui Xie, 2015, _Escape the Land of LaTeX/Word for Statistical Reporting: The Ecosystem of R Markdown_
-  - March, Wright State University, Dayton, Ohio ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2015-Wright-State-Yihui-Xie.html))
-  - July, Central Iowa R User Group
-  - September, ASA webinar ([slides](https://docs.google.com/presentation/d/1RJeypFW1y9vtG_kCoREN5D16jX3KNrc_qzGMGygQs2E/edit?usp=sharing))
-  - October, RStudio webinar ([slides](https://github.com/rstudio/webinars/blob/master/13-R-Markdown-Ecosystem); [video](https://vimeo.com/143893476))
+    - 03/13, Wright State University, Dayton, Ohio ([slides](http://slides.yihui.name/2015-Wright-State-Yihui-Xie.html))
+    - 07/14, Central Iowa R User Group
+    - 09/03, ASA webinar ([slides](https://docs.google.com/presentation/d/1RJeypFW1y9vtG_kCoREN5D16jX3KNrc_qzGMGygQs2E/edit?usp=sharing))
+    - 10/28, RStudio webinar ([slides](https://github.com/rstudio/webinars/blob/master/13-R-Markdown-Ecosystem); [video](https://vimeo.com/143893476))
 - Yihui Xie, 2015, _Boosting R Skills and Automating Statistical Reports_, New England Statistical Symposium, UConn
-- Yihui Xie, 2015, _HTML Widgets_, LA R User Group ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2015-htmlwidgets-LA-Yihui-Xie.html); [video](http://datascience.la/yihui-xie-presents-html-widgets/))
+- Yihui Xie, 2015, _Automatic reporting and interactive applications with R_, 58.com Inc, Beijing ([slides in Chinese](http://slides.yihui.name/2015-58-Yihui-Xie.html))
+- Yihui Xie, 2015, _HTML Widgets_, LA R User Group ([slides](http://slides.yihui.name/2015-htmlwidgets-LA-Yihui-Xie.html); [video](http://datascience.la/yihui-xie-presents-html-widgets/))
 - Yihui Xie & Dirk Eddelbuettel, 2014, An [R Workshop](http://ditraglia.com/RWorkshop/) at the Warren Center of UPenn, Philadelphia, PA
 - JJ Allaire & Yihui Xie, 2014, _Reproducible R Reports with Packrat and Rmarkdown _, [R Day](http://strataconf.com/stratany2014/public/schedule/detail/37037) at Strata New York
-- Yihui Xie, 2014, _Reproducible Research Is Dead, Long Live Reproducible Research!_, a talk given at JSM 2014, Boston, MA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-JSM-knitr-Yihui-Xie.html))
+- Yihui Xie, 2014, _Reproducible Research Is Dead, Long Live Reproducible Research!_, a talk given at JSM 2014, Boston, MA ([slides](http://slides.yihui.name/2014-JSM-knitr-Yihui-Xie.html))
 - Yihui Xie, 2014, _Knitr Ninja_, a talk given at UseR! 2014, UCLA ([slides](https://github.com/yihui/knitr-talks/tree/master/useR2014))
-- Yihui Xie, 2014, _Dynamic Documents with R and knitr_, a tutorial given at UseR! 2014, UCLA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-useR-knitr-tutorial-Yihui-Xie.html); [examples](https://www.dropbox.com/s/0mabfshkbpe9bp1/2014-useR-knitr-tutorial-examples.zip))
-- Yihui Xie, 2014, _The Next Generation of Dynamic Documents with R Markdown_, Great Plains [R-Users Group](http://homepages.dordt.edu/ntintle/gprug/) Conference, Sioux Center, Iowa ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-Dordt-Yihui-Xie.html))
-- Yihui Xie, 2014, _How I Managed to Find Time to Play Badminton Three Times A Week_, a talk in the Department of Animal Science, ISU ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-ISU-ANS-Yihui-Xie.html))
-- Yihui Xie, 2014, _New developments in knitr and R Markdown v2_, LA R user group ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/LARUG-2014-Yihui-Xie.html))
-- Yihui Xie, 2014, _Dynamic and Interactive Statistical Reporting_, a talk in the Department of Statistics, UCLA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/UCLA-2014-Yihui-Xie.html))
-- Yihui Xie, 2014, _How to Save More Time from Your Homework and Projects_, a guest lecture for Stat 416 at Iowa State University ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-STAT416-Yihui-Xie.html))
-- Yihui Xie, 2014, _An Introduction to knitr_, a remote talk for the Orange County R User Group ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/2014-OC-RUG-Yihui-Xie.html))
-- Yihui Xie, 2014, _R Markdown v2_, Seattle R User Meetup, Seattle, WA ([slides](https://dl.dropboxusercontent.com/u/15335397/slides/Seattle-useR-2014-Yihui-Xie.html))
-- Yihui Xie, 2013, _You Can Save More Time from Homework/Projects/Data Analysis for Beer/Fun/Whatever_, Iowa Chapter of ASA poster session with mixer ([poster](https://dl.dropboxusercontent.com/u/15335397/slides/2013-ASA-Iowa-knitr-poster.pdf))
+- Yihui Xie, 2014, _Dynamic Documents with R and knitr_, a tutorial given at UseR! 2014, UCLA ([slides](http://slides.yihui.name/2014-useR-knitr-tutorial-Yihui-Xie.html); [examples](https://www.dropbox.com/s/0mabfshkbpe9bp1/2014-useR-knitr-tutorial-examples.zip))
+- Yihui Xie, 2014, _The Next Generation of Dynamic Documents with R Markdown_, Great Plains [R-Users Group](http://homepages.dordt.edu/ntintle/gprug/) Conference, Sioux Center, Iowa ([slides](http://slides.yihui.name/2014-Dordt-Yihui-Xie.html))
+- Yihui Xie, 2014, _How I Managed to Find Time to Play Badminton Three Times A Week_, a talk in the Department of Animal Science, ISU ([slides](http://slides.yihui.name/2014-ISU-ANS-Yihui-Xie.html))
+- Yihui Xie, 2014, _New developments in knitr and R Markdown v2_, LA R user group ([slides](http://slides.yihui.name/LARUG-2014-Yihui-Xie.html))
+- Yihui Xie, 2014, _Dynamic and Interactive Statistical Reporting_, a talk in the Department of Statistics, UCLA ([slides](http://slides.yihui.name/UCLA-2014-Yihui-Xie.html))
+- Yihui Xie, 2014, _How to Save More Time from Your Homework and Projects_, a guest lecture for Stat 416 at Iowa State University ([slides](http://slides.yihui.name/2014-STAT416-Yihui-Xie.html))
+- Yihui Xie, 2014, _An Introduction to knitr_, a remote talk for the Orange County R User Group ([slides](http://slides.yihui.name/2014-OC-RUG-Yihui-Xie.html))
+- Yihui Xie, 2014, _R Markdown v2_, Seattle R User Meetup, Seattle, WA ([slides](http://slides.yihui.name/Seattle-useR-2014-Yihui-Xie.html))
+- Yihui Xie, 2013, _You Can Save More Time from Homework/Projects/Data Analysis for Beer/Fun/Whatever_, Iowa Chapter of ASA poster session with mixer ([poster](http://slides.yihui.name/2013-ASA-Iowa-knitr-poster.pdf))
 - Yihui Xie, 2013, _knitr for ninja_, a distance talk at the New York R Users Group ([slides](http://bit.ly/18SIMpu))
-- Yihui Xie, 2013, _A tour through knitr_, Raphael Gottardo's research lab, Fred Hutchinson Cancer Research Center, Seattle, WA ([slides](http://dl.dropbox.com/u/15335397/slides/FHCRC-rglab-2013-Yihui-Xie.html); [same talk given to the stats group](http://dl.dropbox.com/u/15335397/slides/FHCRC-VTN-2013-Yihui-Xie.html))
-- Yihui Xie, 2013, _An Introduction to knitr_, Bioconductor 2013, Seattle, WA ([slides](http://dl.dropbox.com/u/15335397/slides/BioC-2013-Yihui-Xie.html), [R Markdown](http://dl.dropbox.com/u/15335397/slides/BioC-2013-Yihui-Xie.Rpres))
+- Yihui Xie, 2013, _A tour through knitr_, Raphael Gottardo's research lab, Fred Hutchinson Cancer Research Center, Seattle, WA ([slides](http://slides.yihui.name/FHCRC-rglab-2013-Yihui-Xie.html); [same talk given to the stats group](http://slides.yihui.name/FHCRC-VTN-2013-Yihui-Xie.html))
+- Yihui Xie, 2013, _An Introduction to knitr_, Bioconductor 2013, Seattle, WA ([slides](http://slides.yihui.name/BioC-2013-Yihui-Xie.html), [R Markdown](http://slides.yihui.name/BioC-2013-Yihui-Xie.Rpres))
 - Yihui Xie, 2013, _The Development of R in China, and One Sentence Summaries of My R Projects_, Revolution Analytics, Seattle, WA ([slides](https://bitbucket.org/stat/www/downloads/2013-RevoR-Yihui-Xie.pdf))
-- Yihui Xie, 2013, _Doing Reproducible Research Unconsciously: Higher Standard But Less Work_, The 36th annual Midwest Biopharmaceutical Statistics Workshop, Muncie, IN ([slides](http://dl.dropbox.com/u/15335397/slides/knitr-MBSW-Yihui-Xie-2013.html))
-- Yihui Xie, 2013, _Lessons Learned in Developing R Packages_, The 6th Chinese R Conference, Beijing ([slides](http://dl.dropboxusercontent.com/u/15335397/slides/ChinaR-2013-Yihui-Xie.html))
-- Yihui Xie, 2013, _knitr: A General-purpose Tool for Dynamic Report Generation in R_, [ENAR](http://enar.org) 2013, Orlando, FL ([slides](http://dl.dropbox.com/u/15335397/slides/knitr-ENAR-Yihui-Xie-2013.html))
-- Yihui Xie, 2013, _Reproducible Research on the Web: From Homework, Blogging to Open Journals_, SIAM [CSE13](http://www.siam.org/meetings/cse13/), Boston, MA ([slides](http://dl.dropbox.com/u/15335397/slides/2013-SIAM-CSE13-Yihui-Xie.html))
+- Yihui Xie, 2013, _Doing Reproducible Research Unconsciously: Higher Standard But Less Work_, The 36th annual Midwest Biopharmaceutical Statistics Workshop, Muncie, IN ([slides](http://slides.yihui.name/knitr-MBSW-Yihui-Xie-2013.html))
+- Yihui Xie, 2013, _Lessons Learned in Developing R Packages_, The 6th Chinese R Conference, Beijing ([slides](http://slides.yihui.name/ChinaR-2013-Yihui-Xie.html))
+- Yihui Xie, 2013, _knitr: A General-purpose Tool for Dynamic Report Generation in R_, [ENAR](http://enar.org) 2013, Orlando, FL ([slides](http://slides.yihui.name/knitr-ENAR-Yihui-Xie-2013.html))
+- Yihui Xie, 2013, _Reproducible Research on the Web: From Homework, Blogging to Open Journals_, SIAM [CSE13](http://www.siam.org/meetings/cse13/), Boston, MA ([slides](http://slides.yihui.name/2013-SIAM-CSE13-Yihui-Xie.html))
 - Yihui Xie, 2012, _knitr: Starting From Reproducible Homework_, Workshop on Reproducibility in Computational and Experimental Mathematics, [ICERM](http://icerm.brown.edu/tw12-5-rcem), Brown University, Providence, RI ([slides](https://bitbucket.org/stat/www/downloads/ICERMRR-Yihui-Xie-2012.pdf))
 - Yihui Xie, 2012, _Can You Reproduce Your Homework?_, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD ([slides](http://yihui.name/slides/2012-reproduce-homework.html))
 - Yihui Xie, 2012, _I web, therefore I am_, ISU Computing Working Group ([slides](http://yihui.name/slides/2012-stats-web.html))
@@ -233,24 +263,57 @@ Projects Participated:
 
 ## Computer Skills
 
-I like playing with computer tools for building web pages and statistical computation & graphics. I improve the efficiency of my work with the aid of programming (i.e. work hard to be lazy).
+I like playing with computer tools for building web pages and statistical computation & graphics. I often try to improve the efficiency of my work by creating software tools (i.e. work hard to be lazy).
 
 - Statistical Packages: [R](http://www.r-project.org) (<del>OpenBUGS, S-Plus, SPSS, Eviews, SAS, MatLab, STATA, AMOS and LISREL</del>)
-- Languages: R, HTML, JavaScript, PHP, SQL (<del>Visual Basic, VBA, VBScript, ASP, Java, C</del>)
-- Applications: LaTeX, [LyX](http://www.lyx.org), databases (e.g. MySQL), SVN and GIT
-- Operating Systems: 97.5% GNU Linux ([Ubuntu](http://www.ubuntu.com)); 2.5% Windows (mostly for purposes of testing software)
+- Languages: R, HTML/CSS, JavaScript, PHP, SQL (<del>Visual Basic, VBA, VBScript, ASP, Java, C</del>)
+- Applications: LaTeX via [LyX](http://www.lyx.org), Markdown via [Pandoc](http://pandoc.org), databases (e.g. MySQL), <del>SVN and</del> GIT
+- Operating Systems: 95% macOS, 2.5% Ubuntu, and 2.5% Windows (the latter two mostly for purposes of testing software)
 
-Listed above are what I'm very familiar with, and the ones being crossed out are due to my brain stack overflow and I do garbage collection in my brain once in a while. Occasionally I also use other tools like [D3](http://mbostock.github.com/d3/). I'm slightly insterested in learning Python and Julia. If I have more time to kill, I will definitely learn [http://processingjs.org](Processing.js).
+Listed above are what I'm very familiar with, and the ones being crossed out are due to my brain stack overflow and I do garbage collection in my brain once in a while.
 
 ## Software Packages
 
-I support open source software and below is a list of my contributions to the open source community:
+I support open source software, and below is a list of open source packages that I'm involved with.
 
-- R package [knitr](http://cran.r-project.org/package=knitr) as an alternative to Sweave for dynamic report generation
-- R package [animation](http://cran.r-project.org/package=animation) which provides several animation demonstrations for statistical theories and data analysis (Nov 2007 - Present)
-- R package [testit](https://github.com/yihui/testit) for testing R packages
-- R packages [formatR](http://cran.r-project.org/package=formatR), [Rd2roxygen](http://cran.r-project.org/package=Rd2roxygen), [R2SWF](http://cran.r-project.org/package=R2SWF), [MSG](http://cran.r-project.org/package=MSG), [iBUGS](http://cran.r-project.org/package=iBUGS), [fun](http://cran.r-project.org/package=fun), ...
-- R package [cranvas](https://github.com/ggobi/cranvas/) as the next generation of [GGobi](http://www.ggobi.org) for interactive statistical graphics
-- the Sweave and knitr modules in LyX
+### R packages:
+
+I'm the creator and main author of:
+
+- [knitr](https://github.com/yihui/knitr): a general-purpose package for dynamic report generation in R
+- [bookdown](https://github.com/rstudio/bookdown): authoring books and technical documents with R Markdown
+- [xaringan](https://github.com/yihui/xaringan): presentation ninja
+- [blogdown](https://github.com/rstudio/blogdown): create blogs and websites with R Markdown
+- [tufte](https://github.com/rstudio/tufte): Tufte styles for R Markdown documents
+- [servr](): a simple HTTP server to serve static files or dynamic documents
+- [animation](https://github.com/yihui/animation): a gallery of animations in statistics and utilities to create animations
+- [testit](https://github.com/yihui/testit): a simple package for testing R packages
+- [formatR](https://github.com/yihui/formatR): format R code automatically
+- [DT](https://github.com/rstudio/DT): a wrapper of the JavaScript library DataTables
+- [mime](https://github.com/yihui/mime): map filenames to MIME types
+- [highr](https://github.com/yihui/highr): syntax highlighting for R source code
+- [printr](https://github.com/yihui/printr): some printing methods for knitr
+- [Rd2roxygen](https://github.com/yihui/Rd2roxygen): convert Rd to roxygen documentation
+- [R2SWF](https://github.com/yihui/R2SWF), [MSG](https://github.com/yihui/MSG), [iBUGS](https://github.com/yihui/iBUGS), [fun](https://github.com/yihui/fun), [and so on](http://depsy.org/person/329908)
+
+I have contributed to:
+
+- [rmarkdown](https://github.com/rstudio/rmarkdown): dynamic documents for R
+- [shiny](https://github.com/rstudio/shiny): web application framework for R
+- [evaluate](https://github.com/hadley/evaluate): parsing and evaluation tools that provide more details than the default
+- [htmlwidgets](https://github.com/ramnathv/htmlwidgets): HTML widgets for R
+- [leaflet](https://github.com/rstudio/leaflet): create interactive web maps with the JavaScript leaflet library
+- [htmltools](https://github.com/rstudio/htmltools): tools for HTML
+- [roxygen2](https://github.com/klutometis/roxygen): in-source documentation for R
+- [tikzDevice](https://github.com/yihui/tikzDevice): R graphics output in LaTeX format
+- [cranvas](https://github.com/ggobi/cranvas/), the next generation of [GGobi](http://www.ggobi.org) for interactive statistical graphics
+
+
+### PHP applications:
+
 - Wordpress plugin [UTF-8 DB Converter](http://wordpress.org/extend/plugins/utf-8-db-converter/) (June 2009)
 - Dokuwiki plugin [animation](http://www.dokuwiki.org/plugin:animation) to insert animations into wiki pages; written in PHP and JavaScript (Jun 2008)
+
+### Misc
+
+- the Sweave and knitr modules in LyX
