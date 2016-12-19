@@ -7,7 +7,7 @@ title: Curriculum Vitae
 
 ## Contact Information
 
-Email: xie@yihui.name; Homepage: <http://yihui.name>
+Email: xie@yihui.name; Homepage: <http://yihui.name>; Twitter [@xieyihui](https://twitter.com/xieyihui)
 
 ## Research Interest
 
